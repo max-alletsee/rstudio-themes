@@ -29,6 +29,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [One Dark - Darker](https://github.com/livelaughriley/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [livelaughriley](https://github.com/livelaughriley/rsthemes)
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
+* [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
 * [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
