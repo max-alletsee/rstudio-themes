@@ -13,20 +13,25 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 ## Dark Themes
 
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
-* [Alice](https://github.com/livelaughriley/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [livelaughriley](https://github.com/livelaughriley/rsthemes)
-* [Alice-Improved](https://github.com/livelaughriley/rsthemes/blob/master/alice-improved.rstheme) - part of the theme collection by [livelaughriley](https://github.com/livelaughriley/rsthemes)
+* [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
+* [Alice-Improved](https://github.com/rileytwo/rsthemes/blob/master/alice-improved.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
+* [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
+* [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
+* [Mojave Dark](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - a theme inspired by Apple's dark aesthetic, including dynamic darkening for plots and markdown (optional)
 * [Night Owlish](https://github.com/batpigandme/night-owlish) - an adaptation of the Night Owl VS Code Theme
 * [nord-rstudio](https://github.com/alletsee/nord-rstudio) - an arctic, north-bluish theme
 * [Nord](https://github.com/janusvm/nord-rstudio) - another port of the Nord theme, work-in-progress according to the author
 * [Nord](https://github.com/edavidaja/nord-rstudio) - another port of the Nord theme family, based on the sublime-text implementation
+* [Nord One](https://github.com/jakubkovac/Linux_settings/blob/master/nord_one.rstheme) - a combination of Nord and (Atom's) One Dark theme
 * [Nord Polar Night Aurora](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-polar-night-aurora.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Oceanic - Eighties](https://github.com/gadenbuie/oceanic-eighties) - a cool dark mode theme
 * [Oceanic Plus](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/oceanic-plus.rstheme) - a light theme with colourblind-friendly colours from the RColorBrewer package
-* [One Dark](https://github.com/livelaughriley/rsthemes/blob/master/One%20Dark.rstheme) - part of the theme collection by [livelaughriley](https://github.com/livelaughriley/rsthemes)
+* [One Dark](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [One Dark](https://github.com/tkrabel/rstudio_atom_theme) - another port of the "Atom One Dark" theme
 * [One Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [One Dark - Darker](https://github.com/livelaughriley/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [livelaughriley](https://github.com/livelaughriley/rsthemes)
+* [One Dark](https://github.com/jakubkovac/Linux_settings/blob/master/atom.rstheme) - another port of the Atom One Dark theme 
+* [One Dark - Darker](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
