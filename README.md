@@ -16,6 +16,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Alice-Improved](https://github.com/rileytwo/rsthemes/blob/master/alice-improved.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
+* [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
 * [Mojave Dark](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - a theme inspired by Apple's dark aesthetic, including dynamic darkening for plots and markdown (optional)
