@@ -18,7 +18,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
-* [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme)) - part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
+* [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Mojave Dark](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - a theme inspired by Apple's dark aesthetic, including dynamic darkening for plots and markdown (optional)
 * [Night Owlish](https://github.com/batpigandme/night-owlish) - an adaptation of the Night Owl VS Code Theme
 * [nord-rstudio](https://github.com/alletsee/nord-rstudio) - an arctic, north-bluish theme
