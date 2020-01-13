@@ -16,7 +16,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream
+* [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Mojave Dark](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - a theme inspired by Apple's dark aesthetic, including dynamic darkening for plots and markdown (optional)
@@ -38,6 +38,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
 * [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
+* [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
 
