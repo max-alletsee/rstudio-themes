@@ -15,6 +15,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
+* [Ayu (Dark + Mirage)](https://github.com/davidgibsonp/ayu-rstudio) - Rstudio version of [@dempfi](https://github.com/dempfi) simple [ayu sublime theme](https://github.com/dempfi/ayu).
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
 * [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet 
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
@@ -52,6 +53,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 ## Light Themes
 
 * [ayu-light-owl](https://github.com/js-oh/ayu-light-owl) - Ayu-light modified by the color scheme from Light Owl
+* [Ayu (Light)](https://github.com/davidgibsonp/ayu-rstudio) - Rstudio version of [@dempfi](https://github.com/dempfi) simple [ayu sublime theme](https://github.com/dempfi/ayu).
 * [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
 * [Github](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Nord Snow Storm](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-snow-storm.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
