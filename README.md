@@ -15,8 +15,8 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
-* [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a part of the Ayu sublime theme)
-* [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a part of the Ayu sublime theme)
+* [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
+* [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - port of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
 * [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet 
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
@@ -53,7 +53,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 
 ## Light Themes
 
-* [Ayu Light](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-light.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a part of the Ayu sublime theme)
+* [Ayu Light](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-light.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [ayu-light-owl](https://github.com/js-oh/ayu-light-owl) - Ayu-light modified by the color scheme from Light Owl
 * [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
 * [Github](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
