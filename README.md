@@ -16,7 +16,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
 * [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
-* [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - port of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
+* [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
 * [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet 
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
