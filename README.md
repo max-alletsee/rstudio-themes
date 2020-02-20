@@ -18,7 +18,8 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
-* [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet 
+* [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
+* [EvangelionUnit01](https://github.com/takemal-studio/EvangelionUnit01-colour-theme) - modeled after one of the mechas in the manga "Neon Genesis Evangelion"
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
@@ -50,6 +51,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
+* [Zinogre](https://github.com/takemal-studio/Zinogre-colour-theme) - modeled after a monster in the video game "Monster Hunt"
 
 ## Light Themes
 
