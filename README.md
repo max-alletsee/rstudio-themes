@@ -58,6 +58,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Ayu Light](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-light.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [ayu-light-owl](https://github.com/js-oh/ayu-light-owl) - Ayu-light modified by the color scheme from Light Owl
 * [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
+* [Flat White](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Github](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Nord Snow Storm](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-snow-storm.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [One Light](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
