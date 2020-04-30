@@ -17,6 +17,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
 * [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
+* [Breeze Dark (BD)](https://github.com/nnamliehbes/BreezeDark-RStudio-Theme/) - inspired by the "Breeze Dark" theme in KDE Plasma
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
 * [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
 * [EvangelionUnit01](https://github.com/takemal-studio/EvangelionUnit01-colour-theme) - modeled after one of the mechas in the manga "Neon Genesis Evangelion"
@@ -42,7 +43,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [One Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [One Dark](https://github.com/jakubkovac/Linux_settings/blob/master/atom.rstheme) - another port of the Atom One Dark theme 
 * [One Dark - Darker](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
-* [Paper Color](https://github.com/mattdube/rstudio_themes/blob/master/PaperColor3.tmTheme) - - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from *.tmtheme to *.rstheme.
+* [Paper Color](https://github.com/mattdube/rstudio_themes/blob/master/PaperColor3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from *.tmtheme to *.rstheme.
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
