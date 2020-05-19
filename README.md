@@ -17,9 +17,9 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
 * [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
-* [Breeze Dark (BD)](https://github.com/nnamliehbes/BreezeDark-RStudio-Theme/) - inspired by the "Breeze Dark" theme in KDE Plasma
+* [BreezeDark](https://github.com/nnamliehbes/Breeze-RStudio-Theme) - a theme matching the Breeze theme in KDE Plasma
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
-* [Darkula](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
+* [Darkula Adwaita](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
 * [EvangelionUnit01](https://github.com/takemal-studio/EvangelionUnit01-colour-theme) - modeled after one of the mechas in the manga "Neon Genesis Evangelion"
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
@@ -57,6 +57,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 ## Light Themes
 
 * [Ayu Light](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-light.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
+* [BreezeDefault](https://github.com/nnamliehbes/Breeze-RStudio-Theme) - a theme matching the Breeze theme in KDE Plasma
 * [ayu-light-owl](https://github.com/js-oh/ayu-light-owl) - Ayu-light modified by the color scheme from Light Owl
 * [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
 * [Flat White](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
@@ -78,6 +79,7 @@ The list below shows the full list of the currently built-in RStudio themes that
 * [Clouds Midnight](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/clouds_midnight.rstheme)
 * [Cobalt](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/cobalt.rstheme)
 * [Dracula](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/dracula.rstheme)
+* [Gob](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/gob.rstheme)
 * [Idle Fingers](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/idle_fingers.rstheme)
 * [Katzenmilch](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/katzenmilch.rstheme)
 * [Kr Theme](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/kr_theme.rstheme)
@@ -98,12 +100,15 @@ The list below shows the full list of the currently built-in RStudio themes that
 ### Light
 
 * [Chaos](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/chrome.rstheme)
+* [Chrome](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/chrome.rstheme)
 * [Clouds](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/clouds.rstheme)
 * [Crimson Editor](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/crimson_editor.rstheme)
 * [Dawn](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/dawn.rstheme)
 * [Dreamweaver](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/dreamweaver.rstheme)
 * [Eclipse](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/eclipse.rstheme)
+* [iPlastic](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/iplastic.rstheme)
 * [Solarized Light](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/solarized_light.rstheme)
+* [SQL Server](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/sqlserver.rstheme)
 * [Textmate](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/textmate.rstheme) (default theme)
 * [Tomorrow](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/tomorrow.rstheme)
 * [Xcode](https://github.com/rstudio/rstudio/blob/master/src/cpp/session/resources/themes/xcode.rstheme)
