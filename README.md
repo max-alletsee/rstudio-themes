@@ -33,6 +33,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [nord-rstudio](https://github.com/alletsee/nord-rstudio) - an arctic, north-bluish theme
 * [Nord](https://github.com/janusvm/nord-rstudio) - another port of the Nord theme, work-in-progress according to the author
 * [Nord](https://github.com/edavidaja/nord-rstudio) - another port of the Nord theme family, based on the sublime-text implementation
+* [Nord](https://github.com/lusignan/Nord-RStudio) - another port of the Nord theme
 * [Nord One](https://github.com/jakubkovac/Linux_settings/blob/master/nord_one.rstheme) - a combination of Nord and (Atom's) One Dark theme
 * [Nord Polar Night](https://github.com/siegerts/rstudio-nord-theme) - based on the Nord Polar Night palette, requires conversion from *.tmtheme to *.rstheme.
 * [Nord Polar Night Aurora](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-polar-night-aurora.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
