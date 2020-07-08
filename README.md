@@ -54,7 +54,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
 * [Zinogre](https://github.com/takemal-studio/Zinogre-colour-theme) - modeled after a monster in the video game "Monster Hunt"
 
-*Note, July 8 2020: This list used to include a theme called Mojave Dark. I have decided to remove the link from the list after statements from the theme's author directly in the theme repository which I consider racist (calling supporters of the Black Lives Matter movement "cynical corporate cowards & desperate people"). If you think that the list above does not contain a dark theme that you'll like and really want to use the work of a person that makes such statements, please search for the theme yourself.*
+*Note, July 8 2020: This list used to include a theme called Mojave Dark. I have decided to remove the link from the list after statements from the theme's author directly in the theme repository which I consider racist (calling supporters of the Black Lives Matter movement "cynical corporate cowards & desperate people pleasers"). If you think that the list above does not contain a dark theme that you'll like and really want to use the work of a person that makes such statements, please search for the theme yourself.*
 
 ## Light Themes
 
