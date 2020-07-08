@@ -28,7 +28,6 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Material Theme Darker](https://github.com/studioljw/darkRstudio) - darker version of RStudio's Material theme
 * [Matrix Glow](https://github.com/AlessioMR/matrix_glow) - a custom theme in the style of the film Matrix (including some glow effects)
-* [Mojave Dark](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme) - a theme inspired by Apple's dark aesthetic, including dynamic darkening for plots and markdown (optional)
 * [Night Owlish](https://github.com/batpigandme/night-owlish) - an adaptation of the Night Owl VS Code Theme
 * [nord-rstudio](https://github.com/alletsee/nord-rstudio) - an arctic, north-bluish theme
 * [Nord](https://github.com/janusvm/nord-rstudio) - another port of the Nord theme, work-in-progress according to the author
@@ -54,6 +53,8 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
 * [Zinogre](https://github.com/takemal-studio/Zinogre-colour-theme) - modeled after a monster in the video game "Monster Hunt"
+
+*Note, July 8 2020: This list used to include a theme called Mojave Dark. I have decided to remove the link from the list after statements from the theme's author directly in the theme repository which I consider racist (calling supporters of the Black Lives Matter movement "cynical corporate cowards & desperate people"). If you think that the list above does not contain a dark theme that you'll like and really want to use the work of a person that makes such statements, please search for the theme yourself.*
 
 ## Light Themes
 
