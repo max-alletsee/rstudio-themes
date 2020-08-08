@@ -24,7 +24,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
-* [Gruvbox2](https://github.com/mattdube/rstudio_themes/blob/master/gruvbox2.tmTheme), [Gruvbox3](https://github.com/mattdube/rstudio_themes/blob/master/gruvbox3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from *.tmtheme to *.rstheme.
+* [Gruvbox2](https://github.com/mattdube/rstudio_themes/blob/master/gruvbox2.tmTheme), [Gruvbox3](https://github.com/mattdube/rstudio_themes/blob/master/gruvbox3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from \*.tmtheme to \*.rstheme.
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Material Theme Darker](https://github.com/studioljw/darkRstudio) - darker version of RStudio's Material theme
 * [Matrix Glow](https://github.com/AlessioMR/matrix_glow) - a custom theme in the style of the film Matrix (including some glow effects)
@@ -34,7 +34,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Nord](https://github.com/edavidaja/nord-rstudio) - another port of the Nord theme family, based on the sublime-text implementation
 * [Nord](https://github.com/lusignan/Nord-RStudio) - another port of the Nord theme
 * [Nord One](https://github.com/jakubkovac/Linux_settings/blob/master/nord_one.rstheme) - a combination of Nord and (Atom's) One Dark theme
-* [Nord Polar Night](https://github.com/siegerts/rstudio-nord-theme) - based on the Nord Polar Night palette, requires conversion from *.tmtheme to *.rstheme.
+* [Nord Polar Night](https://github.com/siegerts/rstudio-nord-theme) - based on the Nord Polar Night palette, requires conversion from \*.tmtheme to \*.rstheme.
 * [Nord Polar Night Aurora](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-polar-night-aurora.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Oceanic - Eighties](https://github.com/gadenbuie/oceanic-eighties) - a cool dark mode theme
 * [Oceanic Plus](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/oceanic-plus.rstheme) - a light theme with colourblind-friendly colours from the RColorBrewer package
@@ -43,12 +43,13 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [One Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [One Dark](https://github.com/jakubkovac/Linux_settings/blob/master/atom.rstheme) - another port of the Atom One Dark theme 
 * [One Dark - Darker](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
-* [Paper Color](https://github.com/mattdube/rstudio_themes/blob/master/PaperColor3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from *.tmtheme to *.rstheme.
+* [Paper Color](https://github.com/mattdube/rstudio_themes/blob/master/PaperColor3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from \*.tmtheme to \*.rstheme.
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
 * [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
+* [SynthwaveBlack](https://github.com/roshandarji/synthwaveBLACK) - based on the Synthwave85 theme, but with a pure black background and adjusted colors
 * [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
