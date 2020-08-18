@@ -14,6 +14,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
 * [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
+* [Apprentice](https://github.com/FvD/rsApprentice) - based on the "Apprentice" color scheme for vim
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
 * [Ayu Dark](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-dark.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
 * [Ayu Mirage](https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-mirage.rstheme) - part of the [Ayu theme collection](https://github.com/davidgibsonp/ayu-rstudio) by David Gibson (which is a port of the Ayu sublime theme)
