@@ -25,6 +25,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Bluebell / JTheme](https://github.com/conig/JTheme/blob/master/inst/bluebell.rstheme) - part of the [JTheme](https://github.com/conig/JTheme) package
 * [BreezeDark](https://github.com/nnamliehbes/Breeze-RStudio-Theme) - a theme matching the Breeze theme in KDE Plasma
 * [CobaltFlag](https://github.com/nchen4/RStudioTheme) - no further comment provided by the creator
+* [colornew](https://github.com/jesusestevez/RStudio_Theme) - based on the Monokai palette with comment colors like Stata
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
 * [Darkula](https://github.com/jealcalat/rstudio_themes/blob/master/Darkula.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Darkula Adwaita](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
@@ -46,7 +47,9 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [IceWorld - Night](https://github.com/jealcalat/rstudio_themes/blob/master/IceWorld%20-%20Night.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - based on a warm theme for Visual Studio Code, part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Material MM](https://github.com/mikmart/rs-themes) - a modified version of the Material theme
+* [Material Ocean](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-ocean.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Oceanic Next](https://github.com/jealcalat/rstudio_themes/blob/master/Material%20Oceanic%20Next.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [Material Palenight](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-palenight.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Theme Darker](https://github.com/studioljw/darkRstudio) - darker version of RStudio's Material theme
 * [Material Theme Darker](https://github.com/jealcalat/rstudio_themes/blob/master/Material-Theme-Darker.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Matrix Glow](https://github.com/AlessioMR/matrix_glow) - a custom theme in the style of the film Matrix (including some glow effects)
@@ -91,11 +94,14 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
 * [SynthwaveBlack](https://github.com/roshandarji/synthwaveBLACK) - based on the Synthwave85 theme, but with a pure black background and adjusted colors
 * [Umi](https://github.com/braudm/rstudio_umi_theme) - using various shades of green for syntax highlighting
+* [vaporwave](https://github.com/cobriant/vaporwave.rstheme) - "rewind back in time with the funk of k-mart mix tapes. This macintosh plus inspired theme will put the elevator jazz back in your step."
 * [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Visual Studio Dark](https://github.com/jealcalat/rstudio_themes/blob/master/Visual%20Studio%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [VSCode Theme](https://github.com/ellenxtan/customized_Rstudio_theme) - customized RStudio theme to resemble VS Code
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Wombat](https://github.com/jealcalat/rstudio_themes/blob/master/Wombat.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [Yule RStudio](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/yule-rstudio-rsthemes.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Yule RStudio (Reduced Motion)](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/yule-rstudio-reduced-motion.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Yule RStudio](https://github.com/gadenbuie/yule-rstudio) - a holiday theme for RStudio
 * [Zinogre](https://github.com/takemal-studio/Zinogre-colour-theme) - modeled after a monster in the video game "Monster Hunt"
 
