@@ -115,6 +115,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Dutch Delight](https://github.com/jpsnijder/tmThemes) - part of a repository that is meant as a private theme collection
 * [Espresso](https://github.com/jealcalat/rstudio_themes/blob/master/Espresso.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Flat White](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Gamelad](https://github.com/matt-dray/gamelad) - a theme limited to the greens of the original Nintendo Game Boy
 * [Github](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Limelight](https://github.com/jealcalat/rstudio_themes/blob/master/Limelight.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [NHL Themes](https://github.com/themechanicalbear/nhlthemes) - a collection of themes with color schemes based on the NHL themes, all in a light setting. currently only works on Mac
