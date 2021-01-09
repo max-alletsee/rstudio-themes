@@ -88,6 +88,8 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
 * [Pebble-Safe-Dark](https://github.com/DesiQuintans/Pebble-safe) - a colourblind-safe theme based on Pebble, coming in a dark and a light variant
+* [Prelude](https://github.com/lyriodendron/Prelude-Rstudio-theme) - dark theme with light purple accents
+* [Qwick Ambiance](https://github.com/qwickmalik/qwick_ambiance) - remix of the Ambiance theme
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
 * [rscodeio](https://github.com/jealcalat/rstudio_themes/blob/master/rscodeio.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
@@ -97,6 +99,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [vaporwave](https://github.com/cobriant/vaporwave.rstheme) - "rewind back in time with the funk of k-mart mix tapes. This macintosh plus inspired theme will put the elevator jazz back in your step."
 * [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Visual Studio Dark](https://github.com/jealcalat/rstudio_themes/blob/master/Visual%20Studio%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [VSC Dark Adwaita](https://github.com/aldomann/rsdarkthemes/blob/master/inst/resources/vsc_dark_adwaita.rstheme) - dark theme resembling VS Code
 * [VSCode Theme](https://github.com/ellenxtan/customized_Rstudio_theme) - customized RStudio theme to resemble VS Code
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Wombat](https://github.com/jealcalat/rstudio_themes/blob/master/Wombat.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
