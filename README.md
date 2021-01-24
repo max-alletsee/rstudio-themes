@@ -46,6 +46,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Horizon Dark](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/horizon-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [IceWorld - Night](https://github.com/jealcalat/rstudio_themes/blob/master/IceWorld%20-%20Night.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - based on a warm theme for Visual Studio Code, part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
+* [Kosmosepralle](https://github.com/mvainre/Kosmosepralle) - dark theme with colourful accents
 * [Material MM](https://github.com/mikmart/rs-themes) - a modified version of the Material theme
 * [Material Ocean](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-ocean.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Oceanic Next](https://github.com/jealcalat/rstudio_themes/blob/master/Material%20Oceanic%20Next.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
@@ -82,6 +83,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [One Dark Pro](https://github.com/johnnybarrels/rstudio-one-dark-pro-theme/) - making the whole RStudio IDE darker, not just the editor itself
 * [One Dark Tomorrow](https://github.com/jealcalat/rstudio_themes/blob/master/OneDarkTomorror.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [OneHalfLight / KindOfDark](https://github.com/jealcalat/rstudio_themes/blob/master/KindOfDark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [OneMonokai](https://github.com/jcasasn/rstudio-theme-one-monokai) - based on the [rscodeio](https://github.com/anthonynorth/rscodeio) theme
 * [outRun](https://github.com/camkay/outRun) - a theme inspired by the 1986 arcade racing game, based on the chaos editor theme
 * [Panda Syntax](https://github.com/aecoleman/rstudio-themes) - no further comment provided by the creator
 * [Paper Color](https://github.com/mattdube/rstudio_themes/blob/master/PaperColor3.tmTheme) - part of the [theme collection by Matt Dube](https://github.com/mattdube/rstudio_themes), require conversion from \*.tmtheme to \*.rstheme.
@@ -97,6 +99,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [SynthwaveBlack](https://github.com/roshandarji/synthwaveBLACK) - based on the Synthwave85 theme, but with a pure black background and adjusted colors
 * [Umi](https://github.com/braudm/rstudio_umi_theme) - using various shades of green for syntax highlighting
 * [vaporwave](https://github.com/cobriant/vaporwave.rstheme) - "rewind back in time with the funk of k-mart mix tapes. This macintosh plus inspired theme will put the elevator jazz back in your step."
+* [Vibrant Ink SB 2](https://github.com/captaincaed/rstudio) - based on the built-in "Vibrant Ink" theme
 * [Viridis](https://github.com/Z3tt/viridis-theme) - based on the viridis color palette and a theme by [David Cooley](https://github.com/SymbolixAU/rstudiothemes/blob/master/viridis.tmTheme)
 * [Visual Studio Dark](https://github.com/jealcalat/rstudio_themes/blob/master/Visual%20Studio%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [VSC Dark Adwaita](https://github.com/aldomann/rsdarkthemes/blob/master/inst/resources/vsc_dark_adwaita.rstheme) - dark theme resembling VS Code
