@@ -97,6 +97,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
 * [SynthwaveBlack](https://github.com/roshandarji/synthwaveBLACK) - based on the Synthwave85 theme, but with a pure black background and adjusted colors
+* [Today](https://github.com/jasblue1/Rstudio-Theme) - dark theme without further comment from the author
 * [Umi](https://github.com/braudm/rstudio_umi_theme) - using various shades of green for syntax highlighting
 * [vaporwave](https://github.com/cobriant/vaporwave.rstheme) - "rewind back in time with the funk of k-mart mix tapes. This macintosh plus inspired theme will put the elevator jazz back in your step."
 * [Vibrant Ink SB 2](https://github.com/captaincaed/rstudio) - based on the built-in "Vibrant Ink" theme
