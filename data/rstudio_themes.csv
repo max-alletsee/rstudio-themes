@@ -1,0 +1,20 @@
+theme_name,github_repository,github_direct_link,is_dark,screenshot
+Ayu Light,https://github.com/davidgibsonp/ayu-rstudio,https://github.com/davidgibsonp/ayu-rstudio/blob/master/rstheme/ayu-light.rstheme,FALSE,https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/light.png
+a11y-light {rsthemes},https://github.com/gadenbuie/rsthemes,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/a11y-light.rstheme,FALSE,
+BreezeDefault,https://github.com/nnamliehbes/Breeze-RStudio-Theme,https://github.com/nnamliehbes/Breeze-RStudio-Theme/blob/master/BreezeDefault.rstheme,FALSE,https://github.com/nnamliehbes/Breeze-RStudio-Theme/blob/master/BreezeDefault.png
+Ayu-light-owl,https://github.com/js-oh/ayu-light-owl,https://github.com/js-oh/ayu-light-owl/blob/master/ayu-light-owl.rstheme,FALSE,https://raw.githubusercontent.com/js-oh/ayu-light-owl/master/images/ayu-light-owl-script-screenshot.png
+Driven Snow,https://github.com/mkearney/driven-snow,https://github.com/mkearney/driven-snow/blob/master/theme/driven-snow.rstheme,FALSE,https://raw.githubusercontent.com/mkearney/driven-snow/master/img/screen-shot.png
+Dutch Delight,https://github.com/jpsnijder/tmThemes,https://github.com/jpsnijder/tmThemes/blob/master/DutchDelight.rstheme,FALSE,
+Espresso,https://github.com/jealcalat/rstudio_themes,https://github.com/jealcalat/rstudio_themes/blob/master/Espresso.rstheme,FALSE,
+Flat White {rsthemes},https://github.com/gadenbuie/rsthemes,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/flat-white.rstheme,FALSE,
+gamelad,https://github.com/matt-dray/gamelad,https://github.com/matt-dray/gamelad/blob/main/gamelad.rstheme,FALSE,https://raw.githubusercontent.com/matt-dray/gamelad/main/img/rstudio-safar6-gamelad-vt323.png
+GitHub {rsthemes},https://github.com/gadenbuie/rsthemes,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/github.rstheme,FALSE,
+Limelight,https://github.com/jealcalat/rstudio_themes,https://github.com/jealcalat/rstudio_themes/blob/master/Limelight.rstheme,TRUE,
+NHL Light,https://github.com/themechanicalbear/nhlthemes,https://github.com/themechanicalbear/nhlthemes/blob/master/inst/NHL_Light.rstheme,FALSE,https://raw.githubusercontent.com/themechanicalbear/nhlthemes/master/nhlthemes_demo.gif
+Nord Snow Storm {rsthemes},https://github.com/gadenbuie/rsthemes/,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/nord-snow-storm.rstheme,FALSE,
+One Light {rsthemes},https://github.com/gadenbuie/rsthemes,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-light.rstheme,FALSE,
+Pebble-Safe Light,https://github.com/DesiQuintans/Pebble-safe,https://github.com/DesiQuintans/Pebble-safe/blob/master/Pebble-Safe_Light.rstheme,FALSE,https://raw.githubusercontent.com/DesiQuintans/Pebble-safe/master/_img/light.png
+Pebble-Safe Dark,https://github.com/DesiQuintans/Pebble-safe,https://github.com/DesiQuintans/Pebble-safe/blob/master/Pebble-Safe_Dark.rstheme,TRUE,https://raw.githubusercontent.com/DesiQuintans/Pebble-safe/master/_img/dark.png
+Solarized Light {rsthemes},https://github.com/gadenbuie/rsthemes,https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/solarized-light.rstheme,FALSE,
+Textmate (high contrast comments),https://github.com/james-e-thomas/textmate_high_contrast_comments/,https://github.com/james-e-thomas/textmate_high_contrast_comments/blob/master/textmate_high_contrast_comments.rstheme,FALSE,
+Tomorrow IDLE,https://github.com/devnich/rstudio,https://github.com/devnich/rstudio/blob/master/themes/Tomorrow%20IDLE.rstheme,FALSE,

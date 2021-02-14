@@ -4,6 +4,8 @@ This is a collection of custom RStudio themes that offer alternatives to the def
 
 If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
 
+You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv) a CSV file, also including links to screenshots if available (*currently including only light themes, will be expanded gradually*).
+
 ## How to install/use custom themes
 
 RStudio supports custom themes in version 1.20 or higher. Themes can be installed via Tools - Global Options - Appearance - Add Theme. Once a theme is installed, the theme name will appear in the theme list and it can be activated by simply clicking on it.
@@ -14,7 +16,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
 * [a11y-dark](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/a11y-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [Alice](https://github.com/rileytwo/rsthemes/blob/master/alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
+* [Alice](https://github.com/rileytwo/rsthemes/blob/master/Alice.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [An Old Hope](https://github.com/otzslayer/an-old-hope-rstudio) - a dark theme inspired by a galaxy far far away...
 * [Apprentice](https://github.com/FvD/rsApprentice) - based on the "Apprentice" color scheme for vim
 * [Asher](https://github.com/michaelasher/CustomRStudioTheme) - a dark theme emulating the style of Visual Studio
@@ -32,7 +34,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Engineering Pad](https://github.com/nt-williams/engineering-pad) - a theme inspired by the creator's favorite engineering pad
 * [EvangelionUnit01](https://github.com/takemal-studio/EvangelionUnit01-colour-theme) - modeled after one of the mechas in the manga "Neon Genesis Evangelion"
 * [Eye Salvation - Dark](https://github.com/jealcalat/rstudio_themes/blob/master/Eye%20Salvation%20-%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
-* [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
 * [Fringe](https://github.com/eviolette/RStudioThemes) - no further comment provided by the creator
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
@@ -47,6 +49,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [IceWorld - Night](https://github.com/jealcalat/rstudio_themes/blob/master/IceWorld%20-%20Night.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - based on a warm theme for Visual Studio Code, part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Kosmosepralle](https://github.com/mvainre/Kosmosepralle) - dark theme with colourful accents
+* [Limelight](https://github.com/jealcalat/rstudio_themes/blob/master/Limelight.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Material MM](https://github.com/mikmart/rs-themes) - a modified version of the Material theme
 * [Material Ocean](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-ocean.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Oceanic Next](https://github.com/jealcalat/rstudio_themes/blob/master/Material%20Oceanic%20Next.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
@@ -70,13 +73,13 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Nord](https://github.com/lusignan/Nord-RStudio) - another port of the Nord theme
 * [Nord One](https://github.com/jakubkovac/Linux_settings/blob/master/nord_one.rstheme) - a combination of Nord and (Atom's) One Dark theme
 * [Nord Polar Night](https://github.com/siegerts/rstudio-nord-theme) - based on the Nord Polar Night palette, requires conversion from \*.tmtheme to \*.rstheme.
-* [Nord Polar Night Aurora](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-polar-night-aurora.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Nord Polar Night Aurora](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/nord-polar-night-aurora.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Northern Lights](https://github.com/dgruenew/rstudio_custom_theme) - a dark theme, still in development
 * [Oceanic - Eighties](https://github.com/gadenbuie/oceanic-eighties) - a cool dark mode theme
-* [Oceanic Plus](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/oceanic-plus.rstheme) - a light theme with colourblind-friendly colours from the RColorBrewer package
+* [Oceanic Plus](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/oceanic-plus.rstheme) - a light theme with colourblind-friendly colours from the RColorBrewer package
 * [One Dark](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
 * [One Dark](https://github.com/tkrabel/rstudio_atom_theme) - another port of the "Atom One Dark" theme
-* [One Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [One Dark](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [One Dark](https://github.com/jakubkovac/Linux_settings/blob/master/atom.rstheme) - another port of the Atom One Dark theme
 * [One Dark](https://github.com/jealcalat/rstudio_themes/blob/master/One%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [One Dark - Darker](https://github.com/rileytwo/rsthemes/blob/master/One%20Dark%20Darker.rstheme) - part of the theme collection by [rileytwo](https://github.com/rileytwo/rsthemes)
@@ -94,7 +97,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Qwick Ambiance](https://github.com/qwickmalik/qwick_ambiance) - remix of the Ambiance theme
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
 * [rscodeio](https://github.com/jealcalat/rstudio_themes/blob/master/rscodeio.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
-* [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Solarized Dark](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/solarized-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Synthwave85](https://github.com/jnolis/synthwave85) - dark theme with a light glow effect
 * [SynthwaveBlack](https://github.com/roshandarji/synthwaveBLACK) - based on the Synthwave85 theme, but with a pure black background and adjusted colors
 * [Today](https://github.com/jasblue1/Rstudio-Theme) - dark theme without further comment from the author
@@ -121,16 +124,15 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
 * [Dutch Delight](https://github.com/jpsnijder/tmThemes) - part of a repository that is meant as a private theme collection
 * [Espresso](https://github.com/jealcalat/rstudio_themes/blob/master/Espresso.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
-* [Flat White](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Flat White](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Gamelad](https://github.com/matt-dray/gamelad) - a theme limited to the greens of the original Nintendo Game Boy
-* [Github](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [Limelight](https://github.com/jealcalat/rstudio_themes/blob/master/Limelight.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [Github](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [NHL Themes](https://github.com/themechanicalbear/nhlthemes) - a collection of themes with color schemes based on the NHL themes, all in a light setting. currently only works on Mac
-* [Nord Snow Storm](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/nord-snow-storm.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [One Light](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/one-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Nord Snow Storm](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/nord-snow-storm.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [One Light](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Pebble-safe](https://github.com/DesiQuintans/pebble-themes) - a light theme with colourblind-friendly colours from the RColorBrewer package
 * [Pebble-Safe-Light](https://github.com/DesiQuintans/Pebble-safe) - a colourblind-safe theme based on Pebble, coming in a dark and a light variant
-* [Solarized Light](https://github.com/gadenbuie/rsthemes/blob/master/inst/themes/solarized-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Solarized Light](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/solarized-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Textmate (High Contrast Comments)](https://github.com/james-e-thomas/textmate_high_contrast_comments) - a version of the default textmate theme with higher contrast comments
 * [Tomorrow IDLE](https://github.com/devnich/rstudio/blob/master/themes/Tomorrow%20IDLE.rstheme) - from [devnich's theme collection](https://github.com/devnich/rstudio)
 
