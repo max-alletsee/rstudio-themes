@@ -10,7 +10,7 @@ You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/d
 
 RStudio supports custom themes in version 1.20 or higher. Themes can be installed via Tools - Global Options - Appearance - Add Theme. Once a theme is installed, the theme name will appear in the theme list and it can be activated by simply clicking on it.
 
-![Add Theme option in RStudio Global Preferences Menu](rstudio_install_themes.png)
+![Add Theme option in RStudio Global Preferences Menu](assets/rstudio_install_themes.png)
 
 ## Dark Themes
 
