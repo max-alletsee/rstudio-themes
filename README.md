@@ -4,13 +4,29 @@ This is a collection of custom RStudio themes that offer alternatives to the def
 
 If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
 
-You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv) a CSV file, also including links to screenshots if available (*currently including only light themes, will be expanded gradually*).
+You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv) a CSV file, also including links to screenshots if available (*work in progess, currently only covering all light themes*).
 
 ## How to install/use custom themes
 
-RStudio supports custom themes in version 1.20 or higher. Themes can be installed via Tools - Global Options - Appearance - Add Theme. Once a theme is installed, the theme name will appear in the theme list and it can be activated by simply clicking on it.
+RStudio supports custom themes in version 1.20 or higher. Themes can be installed via "Tools" - "Global Options" - "Appearance" - "Add Theme". Once a theme is installed, the theme name will appear in the theme list and it can be activated by simply clicking on it.
 
 ![Add Theme option in RStudio Global Preferences Menu](assets/rstudio_install_themes.png)
+
+The "rstudioapi" package includes an ["addTheme" function](https://rdrr.io/cran/rstudioapi/man/addTheme.html) that allows to install custom themes.
+
+Moreover, this Github repository comes with a little pseudo-package that allows to install specific themes from the list below, also coming with the possibility for a bulk install. Below is a quick overview how to use this function. *(This is work in progress and currently covers all light themes)*
+
+    # install the pseudo-package from this Github repository
+    devtools::install_github("max-alletsee/rstudio-themes")
+
+    library(rstudiothemes) # ... then load the library
+
+    # example 1: bulk-install all light themes
+    install_rstudio_themes(theme = "all_light")
+
+    # example 2: install two specific light themes
+    install_rstudio_themes(theme = c("Ayu Light", "Github {rsthemes}"))
+
 
 ## Dark Themes
 
@@ -37,6 +53,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Fairyfloss](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/fairyfloss.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Fairyfloss Dark](https://github.com/Z3tt/fairlyfloss-dark) - based on the fairlyfloss theme, but a bit less candy and pastel - more a late evening dream; including an even darker [2020 remix version](https://github.com/Z3tt/fairlyfloss-dark/blob/master/fairyfloss_dark_2020.rstheme)
 * [Fringe](https://github.com/eviolette/RStudioThemes) - no further comment provided by the creator
+* [GitHub Dark](https://github.com/rtjohnson12/rstudio-themes) - a dark theme based on [another GitHub Dark theme](https://github.com/StylishThemes/GitHub-Dark)
 * [Grubber](https://github.com/RobertMyles/grubber) - a dark theme with red, green, orange and turqoise highlights
 * [Grubber](https://github.com/echaritos/MyRstudioThemes/blob/master/Grubber.rstheme), [Grubbermine](https://github.com/echaritos/MyRstudioThemes/blob/master/Grubbermine.rstheme) - two themes from a small personal [collection](https://github.com/echaritos/MyRstudioThemes) of RStudio themes
 * [Gruvbox](https://github.com/tallguyjenks/gruvboxr) - a theme based on the gruvbox color scheme for vim
@@ -93,6 +110,7 @@ RStudio supports custom themes in version 1.20 or higher. Themes can be installe
 * [Pebble-dark](https://github.com/DesiQuintans/pebble-themes) - a dark theme beased on Merbivore
 * [Pebble-grey](https://github.com/DesiQuintans/pebble-themes) - a dark monochrome theme with bright comments
 * [Pebble-Safe-Dark](https://github.com/DesiQuintans/Pebble-safe) - a colourblind-safe theme based on Pebble, coming in a dark and a light variant
+* [Poolside](https://github.com/nsgrantham/poolside-rstudio) - "a virtual vacation where the sun never sets"
 * [Prelude](https://github.com/lyriodendron/Prelude-Rstudio-theme) - dark theme with light purple accents
 * [Qwick Ambiance](https://github.com/qwickmalik/qwick_ambiance) - remix of the Ambiance theme
 * [rscodeio](https://github.com/anthonynorth/rscodeio) - an RStudio theme inspired by Visual Studio Code. Full package to also modify other RStudio interface elements; the standalone theme can be found [here](https://github.com/anthonynorth/rscodeio/blob/master/inst/resources/rscodeio.rstheme)
