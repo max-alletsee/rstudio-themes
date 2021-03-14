@@ -27,7 +27,6 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
     # example 2: install two specific light themes
     install_rstudio_themes(theme = c("Ayu Light", "Github {rsthemes}"))
 
-
 ## Dark Themes
 
 * [49th Parallel](https://github.com/wvictor14/rstudio_themes) - a dark theme as a tribute to a Vancouver coffee shop
@@ -126,6 +125,7 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [Visual Studio Dark](https://github.com/jealcalat/rstudio_themes/blob/master/Visual%20Studio%20Dark.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [VSC Dark Adwaita](https://github.com/aldomann/rsdarkthemes/blob/master/inst/resources/vsc_dark_adwaita.rstheme) - dark theme resembling VS Code
 * [VSCode Theme](https://github.com/ellenxtan/customized_Rstudio_theme) - customized RStudio theme to resemble VS Code
+* [VscodeTheme](https://github.com/mattia-liuzzo/RStudio-VScode-theme) - inspired by VS Code's Dark+ theme, based on RStudio's built-in "Tomorrow Night" theme
 * [Wombat](https://github.com/randy3k/dotfiles/blob/master/.R/rstudio/themes/Wombat.rstheme) - from a [dotfile collection]([https://github.com/randy3k/dotfiles/)
 * [Wombat](https://github.com/jealcalat/rstudio_themes/blob/master/Wombat.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Yule RStudio](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/yule-rstudio-rsthemes.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
