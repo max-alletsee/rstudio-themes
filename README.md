@@ -44,6 +44,7 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [CobaltFlag](https://github.com/nchen4/RStudioTheme) - no further comment provided by the creator
 * [colornew](https://github.com/jesusestevez/RStudio_Theme) - based on the Monokai palette with comment colors like Stata
 * [Custom](https://github.com/Wcarcamo/RStudioTheme) - dark theme by William Carcamo
+* [Custom One Dark Pro](https://github.com/germaximus/Rstudio_OneDark_Theme) - inspired by the One Dark theme from Atom
 * [Darkula](https://github.com/jealcalat/rstudio_themes/blob/master/Darkula.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Darkula Adwaita](https://github.com/aldomann/rstudio-adwaita-dark-theme) - dark theme plus Qt style sheet
 * [Engineering Pad](https://github.com/nt-williams/engineering-pad) - a theme inspired by the creator's favorite engineering pad
@@ -62,14 +63,17 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [Hacker Green](https://github.com/jsta/hacker_green/) - green font on black (without real syntax highlighting)
 * [Happy Fall Y'All](https://github.com/EFTitus/RStudioThemes/blob/master/Happy%20Fall%20Y'all.rstheme) - part of the theme repository by [EFTitus](https://github.com/EFTitus/RStudioThemes)
 * [Horizon Dark](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/horizon-dark.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Horizon Synthwave](https://github.com/seanlaidlaw/HorizonSynth-Rstudio-Theme) - "I needed a dark Rstudio theme that didn't look like an early 2000s application, but like my code to really glow."
 * [IceWorld - Night](https://github.com/jealcalat/rstudio_themes/blob/master/IceWorld%20-%20Night.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Kiss (Keep It Simple, Stupid)](https://github.com/rileytwo/kiss/blob/master/rstudio/kiss.rstheme) - based on a warm theme for Visual Studio Code, part of the Kiss theme collection by [rileytwo](https://github.com/rileytwo/kiss)
 * [Kosmosepralle](https://github.com/mvainre/Kosmosepralle) - dark theme with colourful accents
 * [Limelight](https://github.com/jealcalat/rstudio_themes/blob/master/Limelight.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
+* [Material](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material.rstheme) - port of the Material theme in five variants (repo with all variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
+* [Material Darker](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-darker.rstheme) - port of the Material theme in five variants (repo with all variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material MM](https://github.com/mikmart/rs-themes) - a modified version of the Material theme
-* [Material Ocean](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-ocean.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
+* [Material Ocean](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-ocean.rstheme) - port of the Material theme in five variants (repo with all variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Oceanic Next](https://github.com/jealcalat/rstudio_themes/blob/master/Material%20Oceanic%20Next.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
-* [Material Palenight](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-palenight.rstheme) - port of the Material theme in the Ocean and Palenight variants (repo with both variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
+* [Material Palenight](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-palenight.rstheme) - port of the Material theme in five variants (repo with all variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [Material Theme Darker](https://github.com/studioljw/darkRstudio) - darker version of RStudio's Material theme
 * [Material Theme Darker](https://github.com/jealcalat/rstudio_themes/blob/master/Material-Theme-Darker.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Matrix Glow](https://github.com/AlessioMR/matrix_glow) - a custom theme in the style of the film Matrix (including some glow effects)
@@ -145,6 +149,7 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [Flat White](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [Gamelad](https://github.com/matt-dray/gamelad) - a theme limited to the greens of the original Nintendo Game Boy
 * [Github](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/github.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* [Material Lighter](https://github.com/lusignan/RStudio-Material-Theme/blob/main/material-lighter.rstheme) - port of the Material theme in five variants (repo with all variants is [here](https://github.com/lusignan/RStudio-Material-Theme))
 * [NHL Themes](https://github.com/themechanicalbear/nhlthemes) - a collection of themes with color schemes based on the NHL themes, all in a light setting. currently only works on Mac
 * [Nord Snow Storm](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/nord-snow-storm.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [One Light](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
