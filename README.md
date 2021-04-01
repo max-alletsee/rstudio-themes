@@ -143,7 +143,7 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [a11y-light](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/a11y-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * [BreezeDefault](https://github.com/nnamliehbes/Breeze-RStudio-Theme) - a theme matching the Breeze theme in KDE Plasma
 * [ayu-light-owl](https://github.com/js-oh/ayu-light-owl) - Ayu-light modified by the color scheme from Light Owl
-* [Driven Snow](https://github.com/mkearney/driven-snow) - a light bar-bones custom theme
+* [Driven Snow](https://github.com/mkearney/driven-snow) - a light bare-bones custom theme
 * [Dutch Delight](https://github.com/jpsnijder/tmThemes) - part of a repository that is meant as a private theme collection
 * [Espresso](https://github.com/jealcalat/rstudio_themes/blob/master/Espresso.rstheme) - part of a [collection of modified tmthemes](https://github.com/jealcalat/rstudio_themes)
 * [Flat White](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/flat-white.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
@@ -156,7 +156,7 @@ Moreover, this Github repository comes with a little pseudo-package that allows 
 * [Pebble-safe](https://github.com/DesiQuintans/pebble-themes) - a light theme with colourblind-friendly colours from the RColorBrewer package
 * [Pebble-Safe-Light](https://github.com/DesiQuintans/Pebble-safe) - a colourblind-safe theme based on Pebble, coming in a dark and a light variant
 * [Solarized Light](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/solarized-light.rstheme) - from the [rsthemes package](https://github.com/gadenbuie/rsthemes)
-* [Textmate (High Contrast Comments)](https://github.com/james-e-thomas/textmate_high_contrast_comments) - a version of the default textmate theme with higher contrast comments
+* [Textmate (High Contrast Comments)](https://github.com/james-e-thomas/textmate_high_contrast_comments) - a version of the default Textmate theme with higher contrast comments
 * [Tomorrow IDLE](https://github.com/devnich/rstudio/blob/master/themes/Tomorrow%20IDLE.rstheme) - from [devnich's theme collection](https://github.com/devnich/rstudio)
 
 ## Built-in RStudio Themes
