@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with 135
-RStudio themes that have been created by users (116 dark themes, 19
+the default built-in themes. Below, you will find a list with *129
+RStudio themes* that have been created by users (110 dark themes, 19
 light themes).
 
 You can find
@@ -53,53 +53,53 @@ this function.
 
 -   49th Parallel ([repo](https://github.com/wvictor14/rstudio_themes),
     [direct
-    link](https://github.com/wvictor14/rstudio_themes/raw/master/49th%20Parallel.rstheme),
+    link](https://raw.githubusercontent.com/wvictor14/rstudio_themes/master/49th%20Parallel.rstheme),
     [screenshot](https://raw.githubusercontent.com/wvictor14/rstudio_themes/master/images/preview_49th_parallel.png)):
     a dark theme as a tribute to a Vancouver coffee shop
 -   a11y-dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/a11y-dark.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/a11y-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/a11y_dark.png)):
     from the rsthemes package
 -   Alice ([repo](https://github.com/rileytwo/rsthemes), [direct
-    link](https://github.com/rileytwo/rsthemes/raw/master/Alice.rstheme)):
+    link](https://raw.githubusercontent.com/rileytwo/rsthemes/master/Alice.rstheme)):
     similar to the Kiss theme
 -   An Old Hope
     ([repo](https://github.com/otzslayer/an-old-hope-rstudio), [direct
-    link](https://github.com/otzslayer/an-old-hope-rstudio/raw/master/An%20Old%20Hope.tmTheme)):
+    link](https://raw.githubusercontent.com/otzslayer/an-old-hope-rstudio/master/An%20Old%20Hope.tmTheme)):
     inspired by a galaxy far far away
 -   Apprentice ([repo](https://github.com/FvD/rsApprentice), [direct
-    link](https://github.com/FvD/rsApprentice/raw/master/Apprentice.rstheme)):
+    link](https://raw.githubusercontent.com/FvD/rsApprentice/master/Apprentice.rstheme)):
     based on the Apprentice color scheme for vim
 -   Asher Theme
     ([repo](https://github.com/michaelasher/CustomRStudioTheme), [direct
-    link](https://github.com/michaelasher/CustomRStudioTheme/raw/master/RStudioStyleFiles/asher.rstheme),
+    link](https://raw.githubusercontent.com/CustomRStudioTheme/master/RStudioStyleFiles/asher.rstheme),
     [screenshot](https://raw.githubusercontent.com/michaelasher/CustomRStudioTheme/master/images/RStudioAsherAppearance.png)):
     a dark theme emulating the style of Visual Studio
 -   ayu-dark ([repo](https://github.com/graiffgarcia/ayu-ish-rstudio),
     [direct
-    link](https://github.com/graiffgarcia/ayu-ish-rstudio/raw/master/rstheme/ayu-dark.rstheme),
+    link](https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/ayu-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/assets/ayu-dark.png)):
     part of an ayu-ish theme collection by graiffgarcia (which is a port
     of the Ayu sublime theme)
 -   ayu dark ([repo](https://github.com/davidgibsonp/ayu-rstudio/),
     [direct
-    link](https://github.com/davidgibsonp/ayu-rstudio/raw/master/rstheme/ayu-dark.rstheme),
+    link](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/rstheme/ayu-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/dark.png)):
     part of the Ayu theme collection by David Gibson (which is a port of
     the Ayu sublime theme)
 -   ayu mirage ([repo](https://github.com/davidgibsonp/ayu-rstudio/),
     [direct
-    link](https://github.com/davidgibsonp/ayu-rstudio/raw/master/rstheme/ayu-mirage.rstheme),
+    link](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/rstheme/ayu-mirage.rstheme),
     [screenshot](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/mirage.png)):
     part of the Ayu theme collection by David Gibson (which is a port of
     the Ayu sublime theme)
 -   Base16 Eighties Dark
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Base16%20Eighties%20Dark.tmTheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Base16%20Eighties%20Dark.tmTheme)):
     part of a collection of modified tmthemes
 -   Behave ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Behave.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Behave.rstheme)):
     part of a collection of modified tmthemes
 -   Bluebell / JTheme ([repo](https://github.com/conig/JTheme), [direct
     link](https://raw.githubusercontent.com/conig/JTheme/master/inst/bluebell.rstheme)):
@@ -107,8 +107,8 @@ this function.
 -   BreezeDark
     ([repo](https://github.com/nnamliehbes/Breeze-RStudio-Theme),
     [direct
-    link](https://raw.githubusercontent.com/nnamliehbes/Breeze-RStudio-Theme/master/BreezeDefault.rstheme),
-    [screenshot](https://github.com/nnamliehbes/Breeze-RStudio-Theme/raw/master/Breeze_Dark.png)):
+    link](https://raw.githubusercontent.com/nnamliehbes/Breeze-RStudio-Theme/master/BreezeDark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/nnamliehbes/Breeze-RStudio-Theme/master/Breeze_Dark.png)):
     a theme matching the Breeze theme in KDE Plasma
 -   CobaltFlag ([repo](https://github.com/nchen4/RStudioTheme), [direct
     link](https://raw.githubusercontent.com/nchen4/RStudioTheme/master/CobaltFlag.rstheme))
@@ -125,7 +125,7 @@ this function.
     inspired by the One Dark theme from Atom
 -   Darkula ([repo](https://github.com/jealcalat/rstudio_themes),
     [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Darkula.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Darkula.rstheme)):
     part of a collection of modified tmthemes
 -   DarkulaAdwaita
     ([repo](https://github.com/aldomann/rstudio-adwaita-dark-theme),
@@ -144,11 +144,11 @@ this function.
     manga Neon Genesis Evangelion
 -   Eye Salvation - Dark
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Eye%20Salvation%20-%20Dark.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Eye%20Salvation%20-%20Dark.rstheme)):
     part of a collection of modified tmthemes
 -   Fairyfloss {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/fairyfloss.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/fairyfloss.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/fairyfloss.png)):
     from the rsthemes package
 -   Fairyfloss Dark ([repo](https://github.com/Z3tt/fairlyfloss-dark),
@@ -173,22 +173,17 @@ this function.
     link](https://raw.githubusercontent.com/RobertMyles/grubber/master/Grubber.rstheme),
     [screenshot](https://raw.githubusercontent.com/RobertMyles/grubber/master/grubber.png)):
     a dark theme with red, green, orange and turqoise highlights
--   Grubber ([repo](https://github.com/echaritos/MyRstudioThemes),
-    [direct
-    link](https://raw.githubusercontent.com/echaritos/MyRstudioThemes/master/Grubber.rstheme)):
-    from a small personal collection of themes
 -   Grubbermine ([repo](https://github.com/echaritos/MyRstudioThemes),
     [direct
     link](https://raw.githubusercontent.com/echaritos/MyRstudioThemes/master/Grubbermine.rstheme)):
     from a small personal collection of themes
 -   gruboxr ([repo](https://github.com/jealcalat/rstudio_themes),
     [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/gruvboxr.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/gruvboxr.rstheme)):
     part of a collection of modified tmthemes
 -   gruvbox2 ([repo](https://github.com/mattdube/rstudio_themes),
     [direct
-    link](https://raw.githubusercontent.com/mattdube/rstudio_themes/master/gruvbox2.tmTheme),
-    [screenshot](https://raw.githubusercontent.com/tallguyjenks/gruvboxr/master/inst/media/preview.png)):
+    link](https://raw.githubusercontent.com/mattdube/rstudio_themes/master/gruvbox2.tmTheme)):
     part of a small theme collection
 -   gruvbox3 ([repo](https://github.com/mattdube/rstudio_themes),
     [direct
@@ -208,12 +203,7 @@ this function.
     part of the theme repository by EFTitus
 -   Horizon Dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/horizon-dark.rstheme),
-    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/horizon_dark.png)):
-    from the rsthemes package
--   Horizon Dark {rsthemes}
-    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/horizon-dark.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/horizon-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/horizon_dark.png)):
     from the rsthemes package
 -   Horizon Synthwave {custom-rsthemes}
@@ -225,20 +215,19 @@ this function.
     application but like my code to really glow.
 -   IceWorld - Night
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/IceWorld%20-%20Night.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/IceWorld%20-%20Night.rstheme)):
     part of a collection of modified tmthemes
 -   Ital Night Owl ([repo](https://github.com/batpigandme/night-owlish),
     [direct
-    link](https://raw.githubusercontent.com/batpigandme/night-owlish/master/rstheme/ital-night-owl.rstheme),
-    [screenshot](https://raw.githubusercontent.com/batpigandme/night-owlish/master/img/night-owlish-rstudio-full.png)):
+    link](https://raw.githubusercontent.com/batpigandme/night-owlish/master/rstheme/ital-night-owl.rstheme)):
     an adaptation of the Night Owl VS Code Theme
 -   KindOfDark / OneHalfLight
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/KindOfDark.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/KindOfDark.rstheme)):
     part of a collection of modified tmthemes
 -   KindOfGruvbox / gruvbox
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/KindOfGruvbox.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/KindOfGruvbox.rstheme)):
     part of a collection of modified tmthemes
 -   Kiss ([repo](https://github.com/rileytwo/kiss), [direct
     link](https://raw.githubusercontent.com/rileytwo/kiss/master/rstudio/kiss.rstheme),
@@ -253,10 +242,6 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Limelight.rstheme)):
     part of a collection of modified tmthemes
--   Limelight ([repo](https://github.com/jealcalat/rstudio_themes),
-    [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Limelight.rstheme)):
-    part of a collection of modified tmthemes
 -   Material
     ([repo](https://github.com/lusignan/RStudio-Material-Theme), [direct
     link](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material.rstheme),
@@ -264,7 +249,7 @@ this function.
     port of the Visual Studio Code Material theme in five variants
 -   Material-Theme-Darker
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Material-Theme-Darker.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Material-Theme-Darker.rstheme)):
     part of a collection of modified tmthemes
 -   Material Darker
     ([repo](https://github.com/lusignan/RStudio-Material-Theme), [direct
@@ -281,7 +266,7 @@ this function.
     port of the Visual Studio Code Material theme in five variants
 -   Material Oceanic Next
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Material%20Oceanic%20Next.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Material%20Oceanic%20Next.rstheme)):
     part of a collection of modified tmthemes
 -   Material Palenight
     ([repo](https://github.com/lusignan/RStudio-Material-Theme), [direct
@@ -316,7 +301,7 @@ this function.
     adapted from the standard Monokai theme in RStudio
 -   MusicForProg / Monokai Datashat Edit
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/MusicForProg.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/MusicForProg.rstheme)):
     part of a collection of modified tmthemes
 -   Mxblsdl ([repo](https://github.com/mxblsdl/rstudio-theme), [direct
     link](https://raw.githubusercontent.com/mxblsdl/rstudio-theme/master/mxblsdl.rstheme)):
@@ -336,23 +321,25 @@ this function.
     an adaptation of the Night Owl VS Code Theme
 -   Night Owl {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/night-owl.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/night-owl.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/night_owl.png)):
     from the rsthemes package
--   Nord ([repo](https://github.com/edavidaja/nord-rstudio), [direct
-    link](https://raw.githubusercontent.com/edavidaja/nord-rstudio/master/Nord.rstheme),
-    [screenshot](https://raw.githubusercontent.com/edavidaja/nord-rstudio/master/shiny.png)):
-    an arctic, north-bluish clean and elegant RStudio theme, based on
-    the Sublime Text implementation
--   Nord ([repo](https://github.com/lusignan/Nord-RStudio), [direct
-    link](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Nord.rstheme),
-    [screenshot](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Preview%20Nord%20RStudio.png)):
-    port of the Visual Studio Code Nord theme
 -   Nord-RStudio ([repo](https://github.com/max-alletsee/nord-rstudio),
     [direct
     link](https://raw.githubusercontent.com/max-alletsee/nord-rstudio/master/nord-rstudio.rstheme),
     [screenshot](https://raw.githubusercontent.com/max-alletsee/nord-rstudio/master/img/nord-rstudio-full.png)):
     an arctic, north-bluish theme
+-   Nord (edavidaja) ([repo](https://github.com/edavidaja/nord-rstudio),
+    [direct
+    link](https://raw.githubusercontent.com/edavidaja/nord-rstudio/master/Nord.rstheme),
+    [screenshot](https://raw.githubusercontent.com/edavidaja/nord-rstudio/master/shiny.png)):
+    an arctic, north-bluish clean and elegant RStudio theme, based on
+    the Sublime Text implementation
+-   Nord (lusignan) ([repo](https://github.com/lusignan/Nord-RStudio),
+    [direct
+    link](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Nord.rstheme),
+    [screenshot](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Preview%20Nord%20RStudio.png)):
+    port of the Visual Studio Code Nord theme
 -   Nord (WIP) ([repo](https://github.com/janusvm/nord-rstudio), [direct
     link](https://raw.githubusercontent.com/janusvm/nord-rstudio/master/Nord.rstheme)):
     port of the Nord theme, work-in-progress according to the author
@@ -367,7 +354,7 @@ this function.
     based on the Nord Polar Night palette
 -   Nord Polar Night Aurora {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/nord-polar-night-aurora.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/nord-polar-night-aurora.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/nord_polar_night_aurora.png)):
     from the rsthemes package
 -   Northern Lights
@@ -380,27 +367,24 @@ this function.
     a cool dark mode theme
 -   Oceanic Plus {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/oceanic-plus.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/oceanic-plus.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/oceanic_plus.png)):
     from the rsthemes package
--   One Dark ([repo](https://github.com/jealcalat/rstudio_themes),
-    [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/One%20Dark.rstheme)):
+-   One Dark (jealcalat)
+    ([repo](https://github.com/jealcalat/rstudio_themes), [direct
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/One%20Dark.rstheme)):
     part of a collection of modified tmthemes
--   One Dark ([repo](https://github.com/jakubkovac/Linux_settings),
+-   One Dark (rileytwo) ([repo](https://github.com/rileytwo/rsthemes),
     [direct
-    link](https://raw.githubusercontent.com/jakubkovac/Linux_settings/master/atom.rstheme)):
-    port of Atom’s One Dark theme
--   One Dark ([repo](https://github.com/rileytwo/rsthemes), [direct
     link](https://raw.githubusercontent.com/rileytwo/rsthemes/master/One%20Dark.rstheme)):
     port of the Atom One Dark theme
--   One Dark ([repo](https://github.com/tkrabel/rstudio_atom_theme),
-    [direct
+-   One Dark (tkrabel)
+    ([repo](https://github.com/tkrabel/rstudio_atom_theme), [direct
     link](https://raw.githubusercontent.com/tkrabel/rstudio_atom_theme/master/atom.rstheme)):
     port of the Atom One Dark theme
 -   One Dark {rsthemes} ([repo](https://github.com/gadenbuie/rsthemes/),
     [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/one-dark.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/one-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/one_dark.png)):
     from the rsthemes package
 -   One Dark Darker ([repo](https://github.com/rileytwo/rsthemes),
@@ -415,7 +399,7 @@ this function.
     adapted from Mojave Dark - a total IDE based on Atom One Dark
 -   One Dark Tomorrow
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/OneDarkTomorror.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/OneDarkTomorror.rstheme)):
     part of a collection of modified tmthemes
 -   One Monokai
     ([repo](https://github.com/jcasasn/rstudio-theme-one-monokai),
@@ -467,18 +451,19 @@ this function.
     link](https://raw.githubusercontent.com/qwickmalik/qwick_ambiance/main/qwick_ambiance.rstheme),
     [screenshot](https://raw.githubusercontent.com/qwickmalik/qwick_ambiance/main/img/qwick_ambiance.png)):
     remix of the Ambiance theme
--   rscodeio ([repo](https://github.com/jealcalat/rstudio_themes),
-    [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/rscodeio.rstheme)):
-    part of a collection of modified tmthemes
--   rscodeio ([repo](https://github.com/anthonynorth/rscodeio), [direct
+-   rscodeio (anthonynorth)
+    ([repo](https://github.com/anthonynorth/rscodeio), [direct
     link](https://raw.githubusercontent.com/anthonynorth/rscodeio/master/inst/resources/rscodeio.rstheme),
     [screenshot](https://raw.githubusercontent.com/anthonynorth/rscodeio/master/inst/media/rscodeio.png)):
     inspired by Visual Studio Code, the full package also modifies other
     RStudio interface elements
+-   rscodeio (jealcalat)
+    ([repo](https://github.com/jealcalat/rstudio_themes), [direct
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/rscodeio.rstheme)):
+    part of a collection of modified tmthemes
 -   Solarized Dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/solarized-dark.rstheme),
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/solarized-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/solarized_dark.png)):
     from the rsthemes package
 -   Synthwave85 ([repo](https://github.com/jnolis/synthwave85), [direct
@@ -522,7 +507,7 @@ this function.
     based on the viridis color palette
 -   Visual Studio Dark
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Visual%20Studio%20Dark.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Visual%20Studio%20Dark.rstheme)):
     part of a collection of modified tmthemes
 -   VSC Dark Adwaita ([repo](https://github.com/aldomann/rsdarkthemes),
     [direct
@@ -541,15 +526,8 @@ this function.
     inspired by VS Code’s Dark+ theme, based on RStudio’s built-in
     Tomorrow Night theme
 -   Wombat ([repo](https://github.com/jealcalat/rstudio_themes), [direct
-    link](https://github.com/jealcalat/rstudio_themes/raw/master/Wombat.rstheme)):
+    link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Wombat.rstheme)):
     part of a collection of modified tmthemes
--   Wombat ([repo](https://github.com/jakubkovac/Linux_settings),
-    [direct
-    link](https://raw.githubusercontent.com/jakubkovac/Linux_settings/master/wombat.rstheme)):
-    from a Linux theme collection
--   Wombat ([repo](https://github.com/randy3k/dotfiles/), [direct
-    link](https://raw.githubusercontent.com/randy3k/dotfiles/master/.R/rstudio/themes/Wombat.rstheme)):
-    from a dotfile collection
 -   Yule RStudio ([repo](https://github.com/gadenbuie/yule-rstudio),
     [direct
     link](https://raw.githubusercontent.com/gadenbuie/yule-rstudio/master/Yule-RStudio.rstheme),
@@ -557,11 +535,11 @@ this function.
     a holiday theme for RStudio
 -   Yule RStudio (Reduced Motion) {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/yule-rstudio-reduced-motion.rstheme)):
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/yule-rstudio-reduced-motion.rstheme)):
     from the rsthemes package
 -   Yule RStudio {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
-    link](https://github.com/gadenbuie/rsthemes/raw/main/inst/themes/yule-rstudio-rsthemes.rstheme)):
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/yule-rstudio-rsthemes.rstheme)):
     from the rsthemes package
 -   Zinogre
     ([repo](https://github.com/takemal-studio/RStudio_Zinogre_theme),

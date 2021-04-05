@@ -32,13 +32,37 @@ save(rstudio_themes, file = "data/rstudio_themes.rda")
 
 # RStudio Theme Collection
 
-This is a collection of custom RStudio themes that offer alternatives to the default built-in themes. Below, you will find a list with `r nrow(rstudio_themes)` RStudio themes that have been created by users (`r sum(rstudio_themes$is_dark)` dark themes, `r nrow(rstudio_themes) - sum(rstudio_themes$is_dark)` light themes).
+This is a collection of custom RStudio themes that offer alternatives to the default built-in themes. Below, you will find a list with *`r nrow(rstudio_themes)` RStudio themes* that have been created by users (`r sum(rstudio_themes$is_dark)` dark themes, `r nrow(rstudio_themes) - sum(rstudio_themes$is_dark)` light themes).
 
 You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv) a CSV file, also including links to screenshots if available.
 
 If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
 
 To add your own theme to the list, please open a pull request, add your theme to the file [data/rstudio_themes.csv](data/rstudio_themes.csv) and re-knit the file README.rmd. 
+
+```{r check_for_duplicates, echo=FALSE}
+
+# check for duplicated theme names
+
+if (any(duplicated(rstudio_themes$theme_name))) {
+  warning("Duplicated Theme Names!\n")
+  cat(rstudio_themes$theme_name[duplicated(rstudio_themes$theme_name)])
+}
+
+# check for duplicated Github Direct Links
+
+if (any(duplicated(rstudio_themes$github_direct_link))) {
+  warning("Duplicated Github Direct Links!\n")
+  cat(rstudio_themes$github_direct_link[duplicated(rstudio_themes$github_direct_link)])
+}
+
+# check for duplicated screenshot URLs
+
+if (any(duplicated(rstudio_themes$screenshot) & rstudio_themes$screenshot > 1)) {
+  warning("Duplicated screenshots!\n")
+  cat(rstudio_themes$screenshot[duplicated(rstudio_themes$screenshot)])
+}
+```
 
 ## How to install/use custom themes
 
