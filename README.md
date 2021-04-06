@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with *129
-RStudio themes* that have been created by users (110 dark themes, 19
+the default built-in themes. Below, you will find a list with **129
+RStudio themes** that have been created by users (110 dark themes, 19
 light themes).
 
 You can find
