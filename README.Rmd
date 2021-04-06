@@ -25,9 +25,9 @@ save(rstudio_themes, file = "data/rstudio_themes.rda")
 # create dataset with links for website
 rstudio_themes_website <- rstudio_themes
 
-rstudio_themes_website$github_repository <- paste0('<a href="', rstudio_themes_website$github_repository, '">link</a>') # repository link
-rstudio_themes_website$github_direct_link <- paste0('<a href="', rstudio_themes_website$github_direct_link, '">link</a>') # direct file link
-rstudio_themes_website$screenshot <- paste0('<a href="', rstudio_themes_website$screenshot, '">link</a>') # direct file link
+rstudio_themes_website$github_repository <- paste0("<a href='", rstudio_themes_website$github_repository, "'>link</a>") # repository link
+rstudio_themes_website$github_direct_link <- paste0("<a href='", rstudio_themes_website$github_direct_link, "'>link</a>") # direct file link
+rstudio_themes_website$screenshot <- paste0("<a href='", rstudio_themes_website$screenshot, "'>link</a>") # direct file link
 
 write.table(rstudio_themes_website,
           file = "data/rstudio_themes_website.csv",
