@@ -9,44 +9,29 @@ output:
 ```{r utility, echo=FALSE}
 
 # load all themes
-rstudio_themes <- read.csv("data/rstudio_themes.csv")
+rstudio_themes <- read.csv("inst/extdata/rstudio_themes.csv")
 
-# sort by is_dark, then alphabetically by theme name
-rstudio_themes <- rstudio_themes[order(rstudio_themes$is_dark, rstudio_themes$theme_name),]
+# sort alphabetically by theme name
+rstudio_themes <- rstudio_themes[order(rstudio_themes$theme_name),]
 
 # save outputs: CSV incl. header, CSV excl. header, RData file
 
 write.csv(rstudio_themes,
-          file = "data/rstudio_themes.csv",
+          file = "inst/extdata/rstudio_themes.csv",
           row.names = FALSE)
 
 save(rstudio_themes, file = "data/rstudio_themes.rda")
-
-# create dataset with links for website
-rstudio_themes_website <- rstudio_themes
-
-rstudio_themes_website$github_repository <- paste0("<a href='", rstudio_themes_website$github_repository, "'>link</a>") # repository link
-rstudio_themes_website$github_direct_link <- paste0("<a href='", rstudio_themes_website$github_direct_link, "'>link</a>") # direct file link
-rstudio_themes_website$screenshot <- paste0("<a href='", rstudio_themes_website$screenshot, "'>link</a>") # direct file link
-
-write.table(rstudio_themes_website,
-          file = "data/rstudio_themes_website.csv",
-          sep = ";",
-          quote = FALSE,
-          row.names = FALSE,
-          col.names = FALSE)
-
 ```
 
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to the default built-in themes. Below, you will find a list with **`r nrow(rstudio_themes)` RStudio themes** that have been created by users (`r sum(rstudio_themes$is_dark)` dark themes, `r nrow(rstudio_themes) - sum(rstudio_themes$is_dark)` light themes).
 
-You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv) a CSV file, also including links to screenshots if available.
+You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv) a CSV file, also including links to screenshots if available.
 
 If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
 
-To add your own theme to the list, please open a pull request, add your theme to the file [data/rstudio_themes.csv](data/rstudio_themes.csv) and re-knit the file README.rmd. 
+To add your own theme to the list, please open a pull request, add your theme to the file [inst/extdata/rstudio_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv) and re-knit the file README.rmd. 
 
 ```{r check_for_duplicates, echo=FALSE}
 

@@ -1,12 +1,12 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **129
-RStudio themes** that have been created by users (110 dark themes, 19
+the default built-in themes. Below, you will find a list with **144
+RStudio themes** that have been created by users (125 dark themes, 19
 light themes).
 
 You can find
-[here](https://github.com/max-alletsee/rstudio-themes/blob/master/data/rstudio_themes.csv)
+[here](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv)
 a CSV file, also including links to screenshots if available.
 
 If you would like to learn more about how to create custom themes for
@@ -14,7 +14,8 @@ RStudio, please see the [RStudio theme creation
 website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
 
 To add your own theme to the list, please open a pull request, add your
-theme to the file [data/rstudio\_themes.csv](data/rstudio_themes.csv)
+theme to the file
+[inst/extdata/rstudio\_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv)
 and re-knit the file README.rmd.
 
 ## How to install/use custom themes
@@ -71,6 +72,11 @@ this function.
 -   Apprentice ([repo](https://github.com/FvD/rsApprentice), [direct
     link](https://raw.githubusercontent.com/FvD/rsApprentice/master/Apprentice.rstheme)):
     based on the Apprentice color scheme for vim
+-   Ariake Dark
+    ([repo](https://github.com/lusignan/rstudio-ariake-dark), [direct
+    link](https://raw.githubusercontent.com/lusignan/rstudio-ariake-dark/main/ariake-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/lusignan/rstudio-ariake-dark/main/img/screenshot.png)):
+    Full RStudio IDE port of Ryosuke Goto’s Ariake Dark theme
 -   Asher Theme
     ([repo](https://github.com/michaelasher/CustomRStudioTheme), [direct
     link](https://raw.githubusercontent.com/CustomRStudioTheme/master/RStudioStyleFiles/asher.rstheme),
@@ -94,6 +100,71 @@ this function.
     [screenshot](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/mirage.png)):
     part of the Ayu theme collection by David Gibson (which is a port of
     the Ayu sublime theme)
+-   base16 3024 {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-3024.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_3024.png)):
+    from the rsthemes package
+-   base16 Apathy {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-apathy.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_apathy.png)):
+    from the rsthemes package
+-   base16 Ashes {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-ashes.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_ashes.png)):
+    from the rsthemes package
+-   base16 Atelier Cave {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-cave.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_cave.png)):
+    from the rsthemes package
+-   base16 Atelier Dune {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-dune.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_dune.png)):
+    from the rsthemes package
+-   base16 Atelier Estuary {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-estuary.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_estuary.png)):
+    from the rsthemes package
+-   base16 Atelier Forest {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-forest.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_forest.png)):
+    from the rsthemes package
+-   base16 Atelier Heath {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-heath.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_heath.png)):
+    from the rsthemes package
+-   base16 Atelier Lakeside {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-lakeside.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_lakeside.png)):
+    from the rsthemes package
+-   base16 Atelier Plateau {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-plateau.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_plateau.png)):
+    from the rsthemes package
+-   base16 Atelier Savanna {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-savanna.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_savanna.png)):
+    from the rsthemes package
+-   base16 Atelier Seaside {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-seaside.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_seaside.png)):
+    from the rsthemes package
+-   base16 Atelier Sulphurpool {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-sulphurpool.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_sulphurpool.png)):
+    from the rsthemes package
 -   Base16 Eighties Dark
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Base16%20Eighties%20Dark.tmTheme)):
@@ -132,6 +203,10 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/aldomann/rstudio-adwaita-dark-theme/master/DarkulaAdwaita.rstheme)):
     dark theme plus Qt style sheet
+-   Dracula ([repo](https://github.com/lusignan/Dracula-RStudio),
+    [direct
+    link](https://raw.githubusercontent.com/lusignan/Dracula-RStudio/master/dracula.rstheme),
+    [screenshot](https://raw.githubusercontent.com/lusignan/Dracula-RStudio/master/screenshot.png))
 -   Engineering Pad
     ([repo](https://github.com/nt-williams/engineering-pad), [direct
     link](https://raw.githubusercontent.com/engineering-pad/master/engineeringPad.rstheme)):
@@ -338,7 +413,7 @@ this function.
 -   Nord (lusignan) ([repo](https://github.com/lusignan/Nord-RStudio),
     [direct
     link](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Nord.rstheme),
-    [screenshot](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/Preview%20Nord%20RStudio.png)):
+    [screenshot](https://raw.githubusercontent.com/lusignan/Nord-RStudio/master/nord-rstudio-preview.png)):
     port of the Visual Studio Code Nord theme
 -   Nord (WIP) ([repo](https://github.com/janusvm/nord-rstudio), [direct
     link](https://raw.githubusercontent.com/janusvm/nord-rstudio/master/Nord.rstheme)):
@@ -438,7 +513,7 @@ this function.
 -   Poolside {rsthemes}
     ([repo](https://github.com/nsgrantham/poolside-rstudio), [direct
     link](https://raw.githubusercontent.com/nsgrantham/poolside-rstudio/main/poolside.rstheme),
-    [screenshot](https://raw.githubusercontent.com/nsgrantham/poolside-rstudio/main/poolside.png)):
+    [screenshot](https://raw.githubusercontent.com/nsgrantham/poolside-rstudio/main/poolside-screenshot.png)):
     a virtual vacation where the sun never sets
 -   Prelude
     ([repo](https://github.com/lyriodendron/Prelude-Rstudio-theme),

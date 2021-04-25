@@ -28,8 +28,11 @@ themes, navigate to "Tools"- "Global Options" - "Appearance".
 }
 \examples{
 \dontrun{
-install_rstudio_themes(theme = "all_dark") # install all dark themes
-install_rstudio_themes(theme = c("Ayu Light", "GitHub {rsthemes}")) # install two specific themes from the list
+# install all dark themes
+install_rstudio_themes(theme = "all_dark")
+
+# install two specific themes from the list
+install_rstudio_themes(theme = c("Ayu Light", "GitHub {rsthemes}"))
 }
 }
 \seealso{

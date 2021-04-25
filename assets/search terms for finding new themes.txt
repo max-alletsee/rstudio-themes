@@ -1,2 +1,2 @@
-- rstheme
-- rstudio theme
+- rstheme: https://github.com/search?o=desc&q=rstheme&s=updated&type=Repositories
+- rstudio theme: https://github.com/search?o=desc&q=rstudio+theme&s=updated&type=Repositories
