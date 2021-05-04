@@ -6,7 +6,7 @@ RStudio themes** that have been created by users (125 dark themes, 19
 light themes).
 
 You can find
-[here](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv)
+[here](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv)
 a CSV file, also including links to screenshots if available.
 
 If you would like to learn more about how to create custom themes for
@@ -15,7 +15,7 @@ website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.htm
 
 To add your own theme to the list, please open a pull request, add your
 theme to the file
-[inst/extdata/rstudio\_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/inst/extdata/rstudio_themes.csv)
+[data-raw/rstudio\_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv)
 and re-knit the file README.rmd.
 
 ## How to install/use custom themes
