@@ -28,12 +28,12 @@ export_themes_for_website <- function(path = "assets/table_for_website.html") {
   rstudio_themes <- rstudio_themes[order(rstudio_themes$theme_name),]
 
   # create flextable object
-  rstudio_themes_table <- flextable(rstudio_themes,
-                                    col_keys = c("theme_name",
-                                                 "link_repo",
-                                                 "link_direct_link",
-                                                 "is_dark",
-                                                 "link_screenshot"))
+  rstudio_themes_table <- flextable::flextable(rstudio_themes,
+                                               col_keys = c("theme_name",
+                                                            "link_repo",
+                                                            "link_direct_link",
+                                                            "is_dark",
+                                                            "link_screenshot"))
 
   # highlight dark themes: dark background, light text
   # colors come from the Nord theme

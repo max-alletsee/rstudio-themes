@@ -2,4 +2,5 @@
 ^\.Rproj\.user$
 ^assets$
 ^LICENSE\.md$
+^README\.Rmd$
 ^data-raw$

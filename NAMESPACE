@@ -3,3 +3,4 @@
 export(export_themes_for_website)
 export(install_rstudio_themes)
 import(flextable)
+import(rstudioapi)

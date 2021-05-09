@@ -36,5 +36,5 @@ install_rstudio_themes(theme = c("Ayu Light", "GitHub {rsthemes}"))
 }
 }
 \seealso{
-\code{\link[rstudioapi:addTheme]{rstudioapi::addTheme()}} which this function wraps.
+\code{\link[=rstudioapi:addTheme]{rstudioapi:addTheme()}} which this function wraps.
 }

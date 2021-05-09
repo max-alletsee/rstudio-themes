@@ -13,7 +13,8 @@
 #' @param theme name of the theme to install, can be a character vector with multiple themes. the shortcode "all" will install all themes in the dataset; similarly, "all_light" and "all_dark" will install all light or dark themes, respectively.
 #' @param globally boolean, default FALSE. should the themes be installed only for the current user (FALSE, default) or for all users (TRUE)
 #' @return none
-#' @seealso [rstudioapi::addTheme()] which this function wraps.
+#' @seealso [rstudioapi:addTheme()] which this function wraps.
+#' @import rstudioapi
 #' @export
 #' @examples
 #' \dontrun{

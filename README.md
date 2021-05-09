@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **144
-RStudio themes** that have been created by users (125 dark themes, 19
+the default built-in themes. Below, you will find a list with **148
+RStudio themes** that have been created by users (129 dark themes, 19
 light themes).
 
 You can find
@@ -100,6 +100,15 @@ this function.
     [screenshot](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/mirage.png)):
     part of the Ayu theme collection by David Gibson (which is a port of
     the Ayu sublime theme)
+-   Barbie Theme Dark
+    ([repo](https://github.com/emhogg/r_studio_themes/), [direct
+    link](https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie%20Theme%20Dark.rstheme))
+-   Barbie Theme Light 1
+    ([repo](https://github.com/emhogg/r_studio_themes/), [direct
+    link](https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie_Theme_Light.rstheme))
+-   Barbie Theme Light 2
+    ([repo](https://github.com/emhogg/r_studio_themes/), [direct
+    link](https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie%20Theme%20Light%202.rstheme))
 -   base16 3024 {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-3024.rstheme),
@@ -541,6 +550,10 @@ this function.
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/solarized-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/solarized_dark.png)):
     from the rsthemes package
+-   Synthwave ([repo](https://github.com/enrique95/Rstudiotheme),
+    [direct
+    link](https://raw.githubusercontent.com/enrique95/Rstudiotheme/master/synthwave.rstheme)):
+    <https://user-images.githubusercontent.com/64669432/116753267-1c3a2e00-aa07-11eb-9723-8c1eae395a9a.png>
 -   Synthwave85 ([repo](https://github.com/jnolis/synthwave85), [direct
     link](https://raw.githubusercontent.com/jnolis/synthwave85/master/Synthwave85.rstheme),
     [screenshot](https://raw.githubusercontent.com/jnolis/synthwave85/master/example.png)):
