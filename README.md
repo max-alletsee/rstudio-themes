@@ -18,10 +18,6 @@ theme to the file
 [data-raw/rstudio\_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv)
 and re-knit the file README.rmd.
 
-    ## Warning: Duplicated Theme Names!
-
-    ## Outrun
-
 ## How to install/use custom themes
 
 RStudio supports custom themes in version 1.20 or higher. Themes can be
@@ -733,12 +729,12 @@ this function.
     link](https://raw.githubusercontent.com/jcasasn/rstudio-theme-one-monokai/main/OneMonokai.tmTheme),
     [screenshot](https://raw.githubusercontent.com/jcasasn/rstudio-theme-one-monokai/main/screenshots/img1.png)):
     based on the rscodeio theme
--   Outrun ([repo](https://github.com/camkay/outRun), [direct
+-   Outrun (Arcade) ([repo](https://github.com/camkay/outRun), [direct
     link](https://raw.githubusercontent.com/camkay/outRun/master/outRun.rstheme),
     [screenshot](https://raw.githubusercontent.com/camkay/outRun/master/example/outrun_theme_example.png)):
     a theme inspired by the 1986 arcade racing game, based on the chaos
     editor theme
--   Outrun
+-   Outrun (Electric)
     ([repo](https://github.com/JeffreyZammit/Rstudio-outrun-theme),
     [direct
     link](https://raw.githubusercontent.com/JeffreyZammit/Rstudio-outrun-theme/main/outRun.rstheme),
