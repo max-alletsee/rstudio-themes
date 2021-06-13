@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **148
-RStudio themes** that have been created by users (129 dark themes, 19
+the default built-in themes. Below, you will find a list with **211
+RStudio themes** that have been created by users (178 dark themes, 33
 light themes).
 
 You can find
@@ -17,6 +17,10 @@ To add your own theme to the list, please open a pull request, add your
 theme to the file
 [data-raw/rstudio\_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv)
 and re-knit the file README.rmd.
+
+    ## Warning: Duplicated Theme Names!
+
+    ## Outrun
 
 ## How to install/use custom themes
 
@@ -174,10 +178,245 @@ this function.
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-atelier-sulphurpool.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_atelier_sulphurpool.png)):
     from the rsthemes package
+-   base16 Bespin {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-bespin.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_bespin.png)):
+    from the rsthemes package
+-   base16 Brewer {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-brewer.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_brewer.png)):
+    from the rsthemes package
+-   base16 Bright {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-bright.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_bright.png)):
+    from the rsthemes package
+-   base16 Chalk {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-chalk.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_chalk.png)):
+    from the rsthemes package
+-   base16 Codeschool {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-codeschool.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_codeschool.png)):
+    from the rsthemes package
+-   base16 Cupcake {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-cupcake.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_cupcake.png)):
+    from the rsthemes package
+-   base16 Darktooth {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-darktooth.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_darktooth.png)):
+    from the rsthemes package
+-   base16 Default Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-default-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_default_dark.png)):
+    from the rsthemes package
+-   base16 Dracula {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-dracula.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_dracula.png)):
+    from the rsthemes package
+-   base16 Eighties {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-eighties.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_eighties.png)):
+    from the rsthemes package
 -   Base16 Eighties Dark
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Base16%20Eighties%20Dark.tmTheme)):
     part of a collection of modified tmthemes
+-   base16 Embers {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-embers.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_embers.png)):
+    from the rsthemes package
+-   base16 Flat {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-flat.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_flat.png)):
+    from the rsthemes package
+-   base16 Google Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-google-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_google_dark.png)):
+    from the rsthemes package
+-   base16 Grayscale Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-grayscale-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_grayscale_dark.png)):
+    from the rsthemes package
+-   base16 Green Screen {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-green-screen.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_green_scren.png)):
+    from the rsthemes package
+-   base16 Gruvbox dark, hard {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-dark-hard.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_dark__hard.png)):
+    from the rsthemes package
+-   base16 Gruvbox dark, medium {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-dark-medium.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_dark__medium.png)):
+    from the rsthemes package
+-   base16 Gruvbox dark, pale {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-dark-pale.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_dark__pale.png)):
+    from the rsthemes package
+-   base16 Gruvbox dark, soft {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-dark-soft.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_dark__soft.png)):
+    from the rsthemes package
+-   base16 Harmonic16 Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-harmonic16-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_harmonic16_dark.png)):
+    from the rsthemes package
+-   base16 Hopscotch {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-hopscotch.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_hopscotch.png)):
+    from the rsthemes package
+-   base16 IR Black {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-ir-black.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_ir_black.png)):
+    from the rsthemes package
+-   base16 IR Isotope {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-ir-isotope.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_ir_isotope.png)):
+    from the rsthemes package
+-   base16 London Tube {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-london-tube.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_london_tube.png)):
+    from the rsthemes package
+-   base16 Macintosh {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-macintosh.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_macintosh.png)):
+    from the rsthemes package
+-   base16 Marrakesh {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-marrakesh.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_marrakesh.png)):
+    from the rsthemes package
+-   base16 Materia {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-materia.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_materia.png)):
+    from the rsthemes package
+-   base16 Mocha {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-mocha.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_mocha.png)):
+    from the rsthemes package
+-   base16 Monokai {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-monokai.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_monokai.png)):
+    from the rsthemes package
+-   base16 Nord {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-nord.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_nord.png)):
+    from the rsthemes package
+-   base16 Ocean {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-ocean.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_ocean.png)):
+    from the rsthemes package
+-   base16 OceanicNext {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-oceanicnext.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_oceanicnext.png)):
+    from the rsthemes package
+-   base16 OneDark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-onedark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_onedark.png)):
+    from the rsthemes package
+-   base16 Paraiso {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-paraiso.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_paraiso.png)):
+    from the rsthemes package
+-   base16 PhD {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-phd.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_phd.png)):
+    from the rsthemes package
+-   base16 Pico {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-pico.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_pico.png)):
+    from the rsthemes package
+-   base16 Pop {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-pop.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_pop.png)):
+    from the rsthemes package
+-   base16 Railscasts {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-railscasts.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_railscasts.png)):
+    from the rsthemes package
+-   base16 Rebecca {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-rebecca.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_rebecca.png)):
+    from the rsthemes package
+-   base16 Seti UI {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-seti-ui.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_seti_ui.png)):
+    from the rsthemes package
+-   base16 Solar Flare {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-solar-flare.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_solar_flare.png)):
+    from the rsthemes package
+-   base16 Solarized Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-solarized-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_solarized_dark.png)):
+    from the rsthemes package
+-   base16 Spacemacs {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-spacemacs.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_spacemacs.png)):
+    from the rsthemes package
+-   base16 Summerfruit Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-summerfruit-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_summerfruit_dark.png)):
+    from the rsthemes package
+-   base16 Tomorrow Night {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-tomorrow-night.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_tomorrow_night.png)):
+    from the rsthemes package
+-   base16 Twilight {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-twilight.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_twilight.png)):
+    from the rsthemes package
+-   base16 Woodland {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-woodland.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_woodland.png)):
+    from the rsthemes package
 -   Behave ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Behave.rstheme)):
     part of a collection of modified tmthemes
@@ -379,6 +618,9 @@ this function.
     link](https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Demo%20Images%20and%20Gifs/Main.png)):
     dark styles across the entire IDE, not just the editor
+-   Monokai Pro ([repo](https://github.com/LeiGuo0812/myRstudioThemes/),
+    [direct
+    link](https://raw.githubusercontent.com/LeiGuo0812/myRstudioThemes/main/Monokai%20Pro.rstheme))
 -   Monokai\_Mod ([repo](https://github.com/gu-stat/RStudio_Theme),
     [direct
     link](https://raw.githubusercontent.com/gu-stat/RStudio_Theme/master/monokai_mod.rstheme)):
@@ -496,6 +738,13 @@ this function.
     [screenshot](https://raw.githubusercontent.com/camkay/outRun/master/example/outrun_theme_example.png)):
     a theme inspired by the 1986 arcade racing game, based on the chaos
     editor theme
+-   Outrun
+    ([repo](https://github.com/JeffreyZammit/Rstudio-outrun-theme),
+    [direct
+    link](https://raw.githubusercontent.com/JeffreyZammit/Rstudio-outrun-theme/main/outRun.rstheme),
+    [screenshot](https://raw.githubusercontent.com/JeffreyZammit/Rstudio-outrun-theme/main/example/example.PNG)):
+    an Outrun-inspired editor theme which is based on the VS Code Outrun
+    Electric theme
 -   Panda Syntax ([repo](https://github.com/aecoleman/rstudio-themes),
     [direct
     link](https://raw.githubusercontent.com/aecoleman/rstudio-themes/master/panda-syntax-13.rstheme))
@@ -653,6 +902,71 @@ this function.
     [screenshot](https://raw.githubusercontent.com/davidgibsonp/ayu-rstudio/master/assets/light.png)):
     part of the Ayu theme collection by David Gibson (which is a port of
     the Ayu sublime theme)
+-   base16 Default Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-default-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_default_light.png)):
+    from the rsthemes package
+-   base16 Google Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-google-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_google_light.png)):
+    from the rsthemes package
+-   base16 Grayscale Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-grayscale-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_grayscale_light.png)):
+    from the rsthemes package
+-   base16 Gruvbox light, hard {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-light-hard.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_light__hard.png)):
+    from the rsthemes package
+-   base16 Gruvbox light, medium {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-light-medium.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_light__medium.png)):
+    from the rsthemes package
+-   base16 Gruvbox light, soft {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-gruvbox-light-soft.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_gruvbox_light__soft.png)):
+    from the rsthemes package
+-   base16 Harmonic16 Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-harmonic16-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_harmonic16_light.png)):
+    from the rsthemes package
+-   base16 Mexico Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-mexico-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_mexico_light.png)):
+    from the rsthemes package
+-   base16 Shapeshifter {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-shapeshifter.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_shapeshifter.png)):
+    from the rsthemes package
+-   base16 Solarized Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-solarized-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_solarized_light.png)):
+    from the rsthemes package
+-   base16 Summerfruit Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-summerfruit-false.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_summerfruit_false.png)):
+    from the rsthemes package
+-   base16 Tomorrow {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-tomorrow.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_tomorrow.png)):
+    from the rsthemes package
+-   base16 Unikitty Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes/), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-unikitty-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_unikitty_light.png)):
+    from the rsthemes package
 -   BreezeDefault
     ([repo](https://github.com/nnamliehbes/Breeze-RStudio-Theme),
     [direct
@@ -703,6 +1017,9 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/one-light.rstheme)):
     from the rsthemes package
+-   OneHalfLight
+    ([repo](https://github.com/LeiGuo0812/myRstudioThemes/), [direct
+    link](https://raw.githubusercontent.com/LeiGuo0812/myRstudioThemes/main/OneHalfLight.rstheme))
 -   Pebble-safe ([repo](https://github.com/DesiQuintans/pebble-themes),
     [direct
     link](https://raw.githubusercontent.com/DesiQuintans/pebble-themes/master/Pebble-safe.rstheme),
