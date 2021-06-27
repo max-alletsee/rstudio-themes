@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **211
-RStudio themes** that have been created by users (178 dark themes, 33
+the default built-in themes. Below, you will find a list with **214
+RStudio themes** that have been created by users (181 dark themes, 33
 light themes).
 
 You can find
@@ -646,6 +646,14 @@ this function.
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/night-owl.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/night_owl.png)):
     from the rsthemes package
+-   Noctis ([repo](https://github.com/eveyp/rstudio-themes), [direct
+    link](https://raw.githubusercontent.com/eveyp/rstudio-themes/main/noctis.rstheme))
+-   Noctis Greener ([repo](https://github.com/eveyp/rstudio-themes),
+    [direct
+    link](https://raw.githubusercontent.com/eveyp/rstudio-themes/main/noctis_greener.rstheme))
+-   Noctis Minimus ([repo](https://github.com/eveyp/rstudio-themes),
+    [direct
+    link](https://raw.githubusercontent.com/eveyp/rstudio-themes/main/noctis_minimus.rstheme))
 -   Nord-RStudio ([repo](https://github.com/max-alletsee/nord-rstudio),
     [direct
     link](https://raw.githubusercontent.com/max-alletsee/nord-rstudio/master/nord-rstudio.rstheme),
