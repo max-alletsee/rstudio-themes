@@ -29,18 +29,18 @@ install_rstudio_themes <- function(theme, globally = FALSE) {
   require(rstudioapi)
 
   # load themes data frame
-  data <- data("rstudio_themes")
+  data("rstudio_themes")
 
   # find the correct themes
 
   if(theme == "all") {# Option 1: All Themes
-    themes_to_install <- subset(x = data, select = github_direct_link)
+    themes_to_install <- subset(x = rstudio_themes, select = github_direct_link)
   } else if(theme == "all_dark") {# Option 2: All Dark Themes
-    themes_to_install <- subset(x = data, subset = is_dark == TRUE, select = github_direct_link)
+    themes_to_install <- subset(x = rstudio_themes, subset = is_dark == TRUE, select = github_direct_link)
   } else if(theme == "all_light") {# Option 3: All Light Themes
-    themes_to_install <- subset(x = data, subset = is_dark == FALSE, select = github_direct_link)
+    themes_to_install <- subset(x = rstudio_themes, subset = is_dark == FALSE, select = github_direct_link)
   } else {# Option 4: Specific Themes
-    themes_to_install <- subset(x = data, subset = theme_name %in% theme, select = github_direct_link)
+    themes_to_install <- subset(x = rstudio_themes, subset = theme_name %in% theme, select = github_direct_link)
   }
 
   if(nrow(themes_to_install) == 0) {
