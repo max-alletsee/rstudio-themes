@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **214
-RStudio themes** that have been created by users (181 dark themes, 33
+the default built-in themes. Below, you will find a list with **215
+RStudio themes** that have been created by users (182 dark themes, 33
 light themes).
 
 You can find
@@ -393,6 +393,10 @@ this function.
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-spacemacs.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_spacemacs.png)):
     from the rsthemes package
+-   base16 Spacemacs {rsthemes}, modified version
+    ([repo](https://github.com/lucassxs/personal-rstudiotheme), [direct
+    link](https://raw.githubusercontent.com/lucassxs/personal-rstudiotheme/main/base16-spacemacs.rstheme)):
+    modified version of the theme from the rsthemes package
 -   base16 Summerfruit Dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-summerfruit-dark.rstheme),
