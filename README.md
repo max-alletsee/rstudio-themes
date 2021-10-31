@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **215
-RStudio themes** that have been created by users (182 dark themes, 33
+the default built-in themes. Below, you will find a list with **218
+RStudio themes** that have been created by users (185 dark themes, 33
 light themes).
 
 You can find
@@ -388,15 +388,15 @@ this function.
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-solarized-dark.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_solarized_dark.png)):
     from the rsthemes package
+-   base16 Spacemacs {rsthemes, modified}, modified version
+    ([repo](https://github.com/lucassxs/personal-rstudiotheme), [direct
+    link](https://raw.githubusercontent.com/lucassxs/personal-rstudiotheme/main/base16-spacemacs.rstheme)):
+    modified version of the theme from the rsthemes package
 -   base16 Spacemacs {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-spacemacs.rstheme),
     [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/base16_spacemacs.png)):
     from the rsthemes package
--   base16 Spacemacs {rsthemes}, modified version
-    ([repo](https://github.com/lucassxs/personal-rstudiotheme), [direct
-    link](https://raw.githubusercontent.com/lucassxs/personal-rstudiotheme/main/base16-spacemacs.rstheme)):
-    modified version of the theme from the rsthemes package
 -   base16 Summerfruit Dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/base16/base16-summerfruit-dark.rstheme),
@@ -429,6 +429,8 @@ this function.
     link](https://raw.githubusercontent.com/nnamliehbes/Breeze-RStudio-Theme/master/BreezeDark.rstheme),
     [screenshot](https://raw.githubusercontent.com/nnamliehbes/Breeze-RStudio-Theme/master/Breeze_Dark.png)):
     a theme matching the Breeze theme in KDE Plasma
+-   BrendaTheme ([repo](https://github.com/brehmathey/rstheme), [direct
+    link](https://raw.githubusercontent.com/brehmathey/rstheme/main/BrendaTheme.rstheme))
 -   CobaltFlag ([repo](https://github.com/nchen4/RStudioTheme), [direct
     link](https://raw.githubusercontent.com/nchen4/RStudioTheme/master/CobaltFlag.rstheme))
 -   colornew ([repo](https://github.com/jesusestevez/RStudio_Theme),
@@ -451,10 +453,9 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/aldomann/rstudio-adwaita-dark-theme/master/DarkulaAdwaita.rstheme)):
     dark theme plus Qt style sheet
--   Dracula ([repo](https://github.com/lusignan/Dracula-RStudio),
-    [direct
-    link](https://raw.githubusercontent.com/lusignan/Dracula-RStudio/master/dracula.rstheme),
-    [screenshot](https://raw.githubusercontent.com/lusignan/Dracula-RStudio/master/screenshot.png))
+-   Dracula ([repo](https://github.com/dracula/rstudio), [direct
+    link](https://raw.githubusercontent.com/dracula/rstudio/master/dracula.rstheme),
+    [screenshot](https://raw.githubusercontent.com/dracula/rstudio/master/screenshot.png))
 -   Engineering Pad
     ([repo](https://github.com/nt-williams/engineering-pad), [direct
     link](https://raw.githubusercontent.com/engineering-pad/master/engineeringPad.rstheme)):
@@ -811,6 +812,10 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/enrique95/Rstudiotheme/master/synthwave.rstheme)):
     <https://user-images.githubusercontent.com/64669432/116753267-1c3a2e00-aa07-11eb-9723-8c1eae395a9a.png>
+-   Synthwave84 ([repo](https://github.com/conig/JTheme/), [direct
+    link](https://raw.githubusercontent.com/conig/JTheme/master/inst/synthwave84.rstheme)):
+    version of Synthwave85, tones the original down for better
+    performance
 -   Synthwave85 ([repo](https://github.com/jnolis/synthwave85), [direct
     link](https://raw.githubusercontent.com/jnolis/synthwave85/master/Synthwave85.rstheme),
     [screenshot](https://raw.githubusercontent.com/jnolis/synthwave85/master/example.png)):
@@ -822,6 +827,10 @@ this function.
     [screenshot](https://raw.githubusercontent.com/roshandarji/synthwaveBLACK/master/synthwaveBLACK_example.png)):
     based on the Synthwave85 theme, but with a pure black background and
     adjusted colors
+-   Tanjiro ([repo](https://github.com/mrmorgan17/Tanjiro), [direct
+    link](https://raw.githubusercontent.com/mrmorgan17/Tanjiro/main/Tanjiro.rstheme),
+    [screenshot](https://raw.githubusercontent.com/mrmorgan17/Tanjiro/main/Tanjiro%20Screen%20Shot.png)):
+    RStudio Editor theme inspired by Tanjiro Kamado
 -   Today ([repo](https://github.com/jasblue1/Rstudio-Theme), [direct
     link](https://raw.githubusercontent.com/jasblue1/Rstudio-Theme/main/Today.rstheme))
 -   Today\_CUSTOM\_MADE
