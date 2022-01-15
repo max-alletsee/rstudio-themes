@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **218
-RStudio themes** that have been created by users (185 dark themes, 33
+the default built-in themes. Below, you will find a list with **228
+RStudio themes** that have been created by users (193 dark themes, 35
 light themes).
 
 You can find
@@ -431,6 +431,9 @@ this function.
     a theme matching the Breeze theme in KDE Plasma
 -   BrendaTheme ([repo](https://github.com/brehmathey/rstheme), [direct
     link](https://raw.githubusercontent.com/brehmathey/rstheme/main/BrendaTheme.rstheme))
+-   Brewer\_Dune ([repo](https://github.com/KewKalustian/RStudio_theme),
+    [direct
+    link](https://raw.githubusercontent.com/KewKalustian/RStudio_theme/master/brewer_dune.tmTheme))
 -   CobaltFlag ([repo](https://github.com/nchen4/RStudioTheme), [direct
     link](https://raw.githubusercontent.com/nchen4/RStudioTheme/master/CobaltFlag.rstheme))
 -   colornew ([repo](https://github.com/jesusestevez/RStudio_Theme),
@@ -444,6 +447,12 @@ this function.
     [direct
     link](https://raw.githubusercontent.com/germaximus/Rstudio_OneDark_Theme/main/custom_One_Dark.rstheme)):
     inspired by the One Dark theme from Atom
+-   DarkThemeRStudio
+    ([repo](https://github.com/MichaelJStein/RStudio-Dark-Theme),
+    [direct
+    link](https://raw.githubusercontent.com/MichaelJStein/RStudio-Dark-Theme/main/MJSDarkTheme.rstheme),
+    [screenshot](https://user-images.githubusercontent.com/77588215/147927633-3443c830-13d2-4497-959a-f1638ec08c0c.png)):
+    dark theme for RStudio that fits to the IDE’s sky theme
 -   Darkula ([repo](https://github.com/jealcalat/rstudio_themes),
     [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Darkula.rstheme)):
@@ -575,10 +584,20 @@ this function.
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Material-Theme-Darker.rstheme)):
     part of a collection of modified tmthemes
+-   Material {rsthemes} ([repo](https://github.com/gadenbuie/rsthemes),
+    [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/material.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/material.png)):
+    port of the Visual Studio Code Material theme in five variants
 -   Material Darker
     ([repo](https://github.com/lusignan/RStudio-Material-Theme), [direct
     link](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-darker.rstheme),
     [screenshot](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/img/material-darker-preview.png)):
+    port of the Visual Studio Code Material theme in five variants
+-   Material Darker {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/material-darker.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/material_darker.png)):
     port of the Visual Studio Code Material theme in five variants
 -   Material MM ([repo](https://github.com/mikmart/rs-themes), [direct
     link](https://raw.githubusercontent.com/mikmart/rs-themes/master/material-mm.rstheme)):
@@ -588,6 +607,11 @@ this function.
     link](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-ocean.rstheme),
     [screenshot](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/img/material-ocean-preview.png)):
     port of the Visual Studio Code Material theme in five variants
+-   Material Ocean {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/material-ocean.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/material_ocean.png)):
+    port of the Visual Studio Code Material theme in five variants
 -   Material Oceanic Next
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/Material%20Oceanic%20Next.rstheme)):
@@ -596,6 +620,11 @@ this function.
     ([repo](https://github.com/lusignan/RStudio-Material-Theme), [direct
     link](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-palenight.rstheme),
     [screenshot](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/img/material-palenight-preview.png)):
+    port of the Visual Studio Code Material theme in five variants
+-   Material Palenight {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/material-palenight.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/material_palenight.png)):
     port of the Visual Studio Code Material theme in five variants
 -   Material Theme Darker
     ([repo](https://github.com/studioljw/darkRstudio), [direct
@@ -803,6 +832,11 @@ this function.
     ([repo](https://github.com/jealcalat/rstudio_themes), [direct
     link](https://raw.githubusercontent.com/jealcalat/rstudio_themes/master/rscodeio.rstheme)):
     part of a collection of modified tmthemes
+-   Serendipity Dark {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/serendipity-dark.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/serendipity_dark.png)):
+    based on the VS Code theme from wickedtemplates, dark variant
 -   Solarized Dark {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes/), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/solarized-dark.rstheme),
@@ -844,6 +878,12 @@ this function.
     link](https://raw.githubusercontent.com/braudm/rstudio_umi_theme/master/Umi.rstheme),
     [screenshot](https://raw.githubusercontent.com/braudm/rstudio_umi_theme/master/umi-theme_example.PNG)):
     using various shades of green for syntax highlighting
+-   V-Ink Flavoured
+    ([repo](https://github.com/bgonzalezbustamante/v-ink-flavoured),
+    [direct
+    link](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/V-Ink%20Flavoured.tmTheme),
+    [screenshot](https://raw.githubusercontent.com/bgonzalezbustamante/v-ink-flavoured/main/images/vink.png)):
+    Vibrant Ink theme with purple, green and orange accents
 -   vaporwave ([repo](https://github.com/cobriant/vaporwave.rstheme),
     [direct
     link](https://raw.githubusercontent.com/cobriant/vaporwave.rstheme/main/vaporwave_theme.rstheme),
@@ -1020,6 +1060,11 @@ this function.
     link](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/blob/main/material-lighter.rstheme),
     [screenshot](https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/img/material-lighter-preview.png)):
     port of the Material theme in five variants
+-   Material Lighter {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/material-lighter.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/material_lighter.png)):
+    port of the Visual Studio Code Material theme in five variants
 -   NHL Light ([repo](https://github.com/themechanicalbear/nhlthemes),
     [direct
     link](https://raw.githubusercontent.com/themechanicalbear/nhlthemes/master/inst/NHL_Light.rstheme),
@@ -1049,6 +1094,11 @@ this function.
     [screenshot](https://raw.githubusercontent.com/DesiQuintans/Pebble-safe/master/_img/light.png)):
     a colourblind-safe theme based on Pebble. coming in a dark and a
     light variant
+-   Serendipity Light {rsthemes}
+    ([repo](https://github.com/gadenbuie/rsthemes), [direct
+    link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/serendipity-light.rstheme),
+    [screenshot](https://raw.githubusercontent.com/gadenbuie/rsthemes/assets/themes/serendipity_light.png)):
+    based on the VS Code theme from wickedtemplates, light variant
 -   Solarized Light {rsthemes}
     ([repo](https://github.com/gadenbuie/rsthemes), [direct
     link](https://raw.githubusercontent.com/gadenbuie/rsthemes/main/inst/themes/solarized-light.rstheme)):
