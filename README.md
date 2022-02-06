@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **228
-RStudio themes** that have been created by users (193 dark themes, 35
+the default built-in themes. Below, you will find a list with **229
+RStudio themes** that have been created by users (194 dark themes, 35
 light themes).
 
 You can find
@@ -82,6 +82,11 @@ this function.
     link](https://raw.githubusercontent.com/CustomRStudioTheme/master/RStudioStyleFiles/asher.rstheme),
     [screenshot](https://raw.githubusercontent.com/michaelasher/CustomRStudioTheme/master/images/RStudioAsherAppearance.png)):
     a dark theme emulating the style of Visual Studio
+-   Atarax 4 ([repo](https://github.com/HeitorGabriel/R_theme), [direct
+    link](https://raw.githubusercontent.com/HeitorGabriel/R_theme/main/Atarax%204.tmTheme),
+    [screenshot](https://raw.githubusercontent.com/HeitorGabriel/R_theme/main/workspace.png)):
+    a dark theme with red some colourful highlights, suggesting Ubunto
+    Mono as font
 -   ayu-dark ([repo](https://github.com/graiffgarcia/ayu-ish-rstudio),
     [direct
     link](https://raw.githubusercontent.com/graiffgarcia/ayu-ish-rstudio/master/rstheme/ayu-dark.rstheme),
