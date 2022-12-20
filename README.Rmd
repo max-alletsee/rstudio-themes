@@ -29,7 +29,7 @@ This is a collection of custom RStudio themes that offer alternatives to the def
 
 You can find [here](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv) a CSV file, also including links to screenshots if available.
 
-If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html).
+If you would like to learn more about how to create custom themes for RStudio, please see the [RStudio theme creation website](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html). There is also a [great tutorial by Xiaoyang Song](https://github.com/Xiaoyang-Song/RStudio-Theme-Customization) that explains the structure of theme files, usage of variables and other topics.
 
 To add your own theme to the list, please open a pull request, add your theme to the file [data-raw/rstudio_themes.csv](https://github.com/max-alletsee/rstudio-themes/blob/master/data-raw/rstudio_themes.csv) and re-knit the file README.rmd. 
 
