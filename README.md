@@ -1,8 +1,8 @@
 # RStudio Theme Collection
 
 This is a collection of custom RStudio themes that offer alternatives to
-the default built-in themes. Below, you will find a list with **308
-RStudio themes** that have been created by users (250 dark themes, 58
+the default built-in themes. Below, you will find a list with **309
+RStudio themes** that have been created by users (251 dark themes, 58
 light themes).
 
 You can find
@@ -793,6 +793,13 @@ this function.
   link](https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Mojave%20Dark.rstheme),
   [screenshot](https://raw.githubusercontent.com/patrickshox/Mojave-Dark-RStudio-Theme/master/Demo%20Images%20and%20Gifs/Main.png)):
   dark styles across the entire IDE, not just the editor
+- Monokai Dimmed
+  ([repo](https://github.com/thedbcooper/rstudio-theme-monokai-dimmed),
+  [direct
+  link](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/9560b0ec330c78cbf027d7353b97751b91c1cbaf/Monokai-Dimmed.rstheme),
+  [screenshot](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/9560b0ec330c78cbf027d7353b97751b91c1cbaf/screenshots/img2.png)):
+  A dark theme based on the Monokai Dimmed color theme (VSCode) for the
+  RStudio IDE.
 - Monokai Pro ([repo](https://github.com/LeiGuo0812/myRstudioThemes/),
   [direct
   link](https://raw.githubusercontent.com/LeiGuo0812/myRstudioThemes/main/Monokai%20Pro.rstheme))
