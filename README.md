@@ -796,8 +796,8 @@ this function.
 - Monokai Dimmed
   ([repo](https://github.com/thedbcooper/rstudio-theme-monokai-dimmed),
   [direct
-  link](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/9560b0ec330c78cbf027d7353b97751b91c1cbaf/Monokai-Dimmed.rstheme),
-  [screenshot](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/9560b0ec330c78cbf027d7353b97751b91c1cbaf/screenshots/img2.png)):
+  link](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/main/Monokai-Dimmed.rstheme),
+  [screenshot](https://raw.githubusercontent.com/thedbcooper/rstudio-theme-monokai-dimmed/main/screenshots/img2.png)):
   A dark theme based on the Monokai Dimmed color theme (VSCode) for the
   RStudio IDE.
 - Monokai Pro ([repo](https://github.com/LeiGuo0812/myRstudioThemes/),
